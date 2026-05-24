@@ -41,6 +41,62 @@ def load_granger_map_data():
 geojson_indonesia = load_geojson()
 df_granger_map = load_granger_map_data()
 
+# =========================================================
+# KODE SAKTI: PENYELARASAN STRING SPASIAL (Kamus Resolusi)
+# =========================================================
+# Format: "NAMA DI CSV ANDA": "Nama di GeoJSON"
+# Isi kamus ini berdasarkan temuan dari alat diagnostik Anda tadi.
+# Anda cukup menuliskan provinsi yang namanya berbeda saja.
+
+kamus_koreksi_provinsi = {
+    "DAERAH KHUSUS IBUKOTA JAKARTA": "Daerah Khusus Ibukota Jakarta",
+    "JAWA BARAT": "Jawa Barat",
+    "ACEH": "Aceh",
+    "KEPULAUAN BANGKA BELITUNG": "Bangka Belitung",
+    "DERAH ISTIMEWA YOGYAKARTA": "Daerah Istimewa Yogyakarta"
+    "SUMATERA UTARA": ""
+    "SUMATERA BARAT": ""
+    "SUMATERA SELATAN": ""
+    "RIAU": ""
+    "KEPULAUAN RIAU": ""
+    "JAMBI": ""
+    "BENGKULU": ""
+    "LAMPUNG": ""
+    "BANTEN": ""
+    "JAWA TENGAH": ""
+    "JAWA TIMUR": ""
+    "KALIMANTAN BARAT": ""
+    "KALIMANTAN SELATAN": ""
+    "KALIMANTAN TENGAH": ""
+    "KALIMANTAN TIMUR": ""
+    "KALIMANTAN UTARA": ""
+    "BALI": ""
+    "NUSA TENGGARA BARAT": ""
+    "NUSA TENGGARA TIMUR": ""
+    "SULAWESI SELATAN": ""
+    "SULAWESI BARAT": ""
+    "SULAWESI TENGGARA": ""
+    "SULAWESI TENGAH": ""
+    "GORONTALO": ""
+    "SULAWESI UTARA": ""
+    "MALUKU": ""
+    "MALUKU UTARA": ""
+    "PAPUA": ""
+    "PAPUA BARAT": ""
+    "PAPUA BARAT DAYA": ""
+    "PAPUA PEGUNUNGAN": ""
+    "PAPUA SELATAN": ""
+    "PAPUA TENGAH": ""
+}
+
+# Terapkan kamus ke dataframe peta Anda
+df_granger_map['PROVINSI'] = df_granger_map['PROVINSI'].replace(kamus_koreksi_provinsi)
+
+# Opsional: Jika dataframe grafik trend (df) Anda juga menggunakan nama lama, 
+# selaraskan juga agar dropdown tidak bentrok (jika diperlukan)
+df['PROVINSI'] = df['PROVINSI'].replace(kamus_koreksi_provinsi)
+
+
 # ---------------------------------------------------------
 # 2. SIDEBAR (KONTROL PENGGUNA)
 # ---------------------------------------------------------
