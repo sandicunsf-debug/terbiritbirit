@@ -1,0 +1,875 @@
+SERIES,PROVINSI,SEKTOR,NILAI_PDRB,NILAI_PBB,is_invalid
+201402,Aceh,Tambang dan Gali,6043.15,1497143580.0,False
+201501,Aceh,Tambang dan Gali,4946.1,-842042817.0,False
+201502,Aceh,Tambang dan Gali,4373.62,1306939480.0,False
+201601,Aceh,Tambang dan Gali,4008.45,82567233.0,False
+201602,Aceh,Tambang dan Gali,4119.38,3644641817.0,False
+201701,Aceh,Tambang dan Gali,4467.28,72235657.0,False
+201702,Aceh,Tambang dan Gali,4114.01,2251548620.0,False
+201801,Aceh,Tambang dan Gali,4520.6,23709283403.0,False
+201802,Aceh,Tambang dan Gali,4631.91,40098415342.0,False
+201901,Aceh,Tambang dan Gali,4766.33,64801998644.0,False
+201902,Aceh,Tambang dan Gali,4922.51,9956219358.0,False
+202001,Aceh,Tambang dan Gali,5304.01,69834524021.0,False
+202002,Aceh,Tambang dan Gali,5181.32,5119194096.0,False
+202101,Aceh,Tambang dan Gali,4653.09,69476652957.0,False
+202102,Aceh,Tambang dan Gali,5754.66,4287304329.0,False
+202201,Aceh,Tambang dan Gali,5342.92,7815763855.0,False
+202202,Aceh,Tambang dan Gali,5512.3,155091052394.0,False
+202301,Aceh,Tambang dan Gali,5036.09,9913841604.0,False
+202302,Aceh,Tambang dan Gali,5294.63,175191618126.0,False
+201402,Aceh,"Tani, Hutan, dan Ikan",14973.62,25621916294.0,False
+201501,Aceh,"Tani, Hutan, dan Ikan",15293.3,5693328151.0,False
+201502,Aceh,"Tani, Hutan, dan Ikan",15893.08,28751423297.0,False
+201601,Aceh,"Tani, Hutan, dan Ikan",15906.99,12887332685.0,False
+201602,Aceh,"Tani, Hutan, dan Ikan",16448.1,41608094293.0,False
+201701,Aceh,"Tani, Hutan, dan Ikan",16949.47,6468956547.0,False
+201702,Aceh,"Tani, Hutan, dan Ikan",17103.38,37185247862.0,False
+201801,Aceh,"Tani, Hutan, dan Ikan",17578.03,4781128033.0,False
+201802,Aceh,"Tani, Hutan, dan Ikan",17848.14,34284420698.0,False
+201901,Aceh,"Tani, Hutan, dan Ikan",18241.15,1968501688.0,False
+201902,Aceh,"Tani, Hutan, dan Ikan",18385.56,37632869298.0,False
+202001,Aceh,"Tani, Hutan, dan Ikan",18869.44,10810363000.0,False
+202002,Aceh,"Tani, Hutan, dan Ikan",19030.08,48118833895.0,False
+202101,Aceh,"Tani, Hutan, dan Ikan",18643.61,17428838580.0,False
+202102,Aceh,"Tani, Hutan, dan Ikan",19124.46,35944977207.0,False
+202201,Aceh,"Tani, Hutan, dan Ikan",18997.7,8526272218.0,False
+202202,Aceh,"Tani, Hutan, dan Ikan",20007.38,54112666897.0,False
+202301,Aceh,"Tani, Hutan, dan Ikan",19988.38,27182951696.0,False
+202302,Aceh,"Tani, Hutan, dan Ikan",21637.94,41631098648.0,False
+201402,Banten,Tambang dan Gali,1354.76,4787631820.0,False
+201501,Banten,Tambang dan Gali,1360.21,291736000.0,False
+201502,Banten,Tambang dan Gali,1415.04,3052910540.0,False
+201601,Banten,Tambang dan Gali,1428.57,100194436.0,False
+201602,Banten,Tambang dan Gali,1441.92,5112647646.0,False
+201701,Banten,Tambang dan Gali,1424.63,13448600.0,False
+201702,Banten,Tambang dan Gali,1426.21,1753706712.0,False
+201801,Banten,Tambang dan Gali,1439.06,4526061474.0,False
+201802,Banten,Tambang dan Gali,1432.4,1858042060.0,False
+201901,Banten,Tambang dan Gali,1433.44,2985376095.0,False
+201902,Banten,Tambang dan Gali,1448.21,6154145945.0,False
+202001,Banten,Tambang dan Gali,1443.14,55650200.0,False
+202002,Banten,Tambang dan Gali,1197.5,4679697177.0,False
+202101,Banten,Tambang dan Gali,1266.7,1231152213.0,False
+202102,Banten,Tambang dan Gali,1389.93,5241208961.0,False
+202201,Banten,Tambang dan Gali,1221.78,469591552.0,False
+202202,Banten,Tambang dan Gali,986.69,4690511968.0,False
+202301,Banten,Tambang dan Gali,957.04,288847202.0,False
+202302,Banten,Tambang dan Gali,887.59,3184207906.0,False
+201402,Banten,"Tani, Hutan, dan Ikan",9613.75,5327021226.0,False
+201501,Banten,"Tani, Hutan, dan Ikan",10625.65,11655260.0,False
+201502,Banten,"Tani, Hutan, dan Ikan",10117.82,6136159321.0,False
+201601,Banten,"Tani, Hutan, dan Ikan",10794.66,1708998720.0,False
+201602,Banten,"Tani, Hutan, dan Ikan",11314.09,3349512799.0,False
+201701,Banten,"Tani, Hutan, dan Ikan",11860.86,2480946361.0,False
+201702,Banten,"Tani, Hutan, dan Ikan",11194.69,6824421777.0,False
+201801,Banten,"Tani, Hutan, dan Ikan",11600.99,4492052464.0,False
+201802,Banten,"Tani, Hutan, dan Ikan",12279.79,12641912007.0,False
+201901,Banten,"Tani, Hutan, dan Ikan",12108.06,2020367730.0,False
+201902,Banten,"Tani, Hutan, dan Ikan",12300.26,6426542679.0,False
+202001,Banten,"Tani, Hutan, dan Ikan",12597.46,-27590343179.0,False
+202002,Banten,"Tani, Hutan, dan Ikan",12677.62,14725185300.0,False
+202101,Banten,"Tani, Hutan, dan Ikan",12999.67,2244732972.0,False
+202102,Banten,"Tani, Hutan, dan Ikan",12416.91,14093779253.0,False
+202201,Banten,"Tani, Hutan, dan Ikan",13355.84,11098919548.0,False
+202202,Banten,"Tani, Hutan, dan Ikan",13134.7,14747838573.0,False
+202301,Banten,"Tani, Hutan, dan Ikan",13627.22,4773182194.0,False
+202302,Banten,"Tani, Hutan, dan Ikan",12904.08,23803981997.0,False
+201402,Bengkulu,Tambang dan Gali,727.09,756664379.0,False
+201501,Bengkulu,Tambang dan Gali,724.71,2396105083.0,False
+201502,Bengkulu,Tambang dan Gali,734.68,4494438861.0,False
+201601,Bengkulu,Tambang dan Gali,730.52,3375382816.0,False
+201602,Bengkulu,Tambang dan Gali,742.4,1478481062.0,False
+201701,Bengkulu,Tambang dan Gali,736.88,1609492272.0,False
+201702,Bengkulu,Tambang dan Gali,745.89,11419342325.0,False
+201801,Bengkulu,Tambang dan Gali,755.77,2536917830.0,False
+201802,Bengkulu,Tambang dan Gali,767.69,3676634641.0,False
+201901,Bengkulu,Tambang dan Gali,776.43,4259600520.0,False
+201902,Bengkulu,Tambang dan Gali,785.24,7083266750.0,False
+202001,Bengkulu,Tambang dan Gali,778.1,4022638429.0,False
+202002,Bengkulu,Tambang dan Gali,756.97,8276655123.0,False
+202101,Bengkulu,Tambang dan Gali,774.36,1965357746.0,False
+202102,Bengkulu,Tambang dan Gali,860.04,12564484433.0,False
+202201,Bengkulu,Tambang dan Gali,780.82,4024447209.0,False
+202202,Bengkulu,Tambang dan Gali,807.56,23023836900.0,False
+202301,Bengkulu,Tambang dan Gali,806.41,6512407994.0,False
+202302,Bengkulu,Tambang dan Gali,916.87,35516098220.0,False
+201402,Bengkulu,"Tani, Hutan, dan Ikan",5516.79,14784883221.0,False
+201501,Bengkulu,"Tani, Hutan, dan Ikan",5565.68,3190243612.0,False
+201502,Bengkulu,"Tani, Hutan, dan Ikan",5632.29,16187035671.0,False
+201601,Bengkulu,"Tani, Hutan, dan Ikan",5705.43,240425427.0,False
+201602,Bengkulu,"Tani, Hutan, dan Ikan",5846.11,22913969021.0,False
+201701,Bengkulu,"Tani, Hutan, dan Ikan",5914.27,2746117982.0,False
+201702,Bengkulu,"Tani, Hutan, dan Ikan",6015.19,24869794899.0,False
+201801,Bengkulu,"Tani, Hutan, dan Ikan",6096.83,2594964927.0,False
+201802,Bengkulu,"Tani, Hutan, dan Ikan",6212.66,25839497118.0,False
+201901,Bengkulu,"Tani, Hutan, dan Ikan",6325.96,978199720.0,False
+201902,Bengkulu,"Tani, Hutan, dan Ikan",6421.31,28754183853.0,False
+202001,Bengkulu,"Tani, Hutan, dan Ikan",6488.18,663903261.0,False
+202002,Bengkulu,"Tani, Hutan, dan Ikan",6307.81,32475371774.0,False
+202101,Bengkulu,"Tani, Hutan, dan Ikan",6604.27,7210859890.0,False
+202102,Bengkulu,"Tani, Hutan, dan Ikan",6505.45,33587584553.0,False
+202201,Bengkulu,"Tani, Hutan, dan Ikan",6839.37,7789827281.0,False
+202202,Bengkulu,"Tani, Hutan, dan Ikan",6859.96,31851926227.0,False
+202301,Bengkulu,"Tani, Hutan, dan Ikan",7008.48,8327695981.0,False
+202302,Bengkulu,"Tani, Hutan, dan Ikan",6973.21,34174127974.0,False
+201402,Daerah Khusus Ibukota Jakarta,Tambang dan Gali,1483.72,13657561104196.0,False
+201501,Daerah Khusus Ibukota Jakarta,Tambang dan Gali,1476.35,35444415598.0,False
+201502,Daerah Khusus Ibukota Jakarta,Tambang dan Gali,1479.8,15601869540716.0,False
+201601,Daerah Khusus Ibukota Jakarta,Tambang dan Gali,1464.24,-217822476938.0,False
+201602,Daerah Khusus Ibukota Jakarta,Tambang dan Gali,1447.54,151966314453.0,False
+201701,Daerah Khusus Ibukota Jakarta,Tambang dan Gali,1438.84,96161732092.0,False
+201702,Daerah Khusus Ibukota Jakarta,Tambang dan Gali,1477.46,259340271580.0,False
+201801,Daerah Khusus Ibukota Jakarta,Tambang dan Gali,1487.23,-136171614442.0,False
+201802,Daerah Khusus Ibukota Jakarta,Tambang dan Gali,1458.11,10995898331862.0,False
+201901,Daerah Khusus Ibukota Jakarta,Tambang dan Gali,1443.6,7338707633839.0,False
+201902,Daerah Khusus Ibukota Jakarta,Tambang dan Gali,1383.72,3547643321913.0,False
+202001,Daerah Khusus Ibukota Jakarta,Tambang dan Gali,1344.78,4515184420051.0,False
+202002,Daerah Khusus Ibukota Jakarta,Tambang dan Gali,1300.62,5722286754657.0,False
+202101,Daerah Khusus Ibukota Jakarta,Tambang dan Gali,1287.27,5680654182100.0,False
+202102,Daerah Khusus Ibukota Jakarta,Tambang dan Gali,1250.76,2080827128971.0,False
+202201,Daerah Khusus Ibukota Jakarta,Tambang dan Gali,1256.83,184538218123.0,False
+202202,Daerah Khusus Ibukota Jakarta,Tambang dan Gali,1143.48,9232912065087.0,False
+202301,Daerah Khusus Ibukota Jakarta,Tambang dan Gali,1060.55,25239712999.0,False
+202302,Daerah Khusus Ibukota Jakarta,Tambang dan Gali,1033.6,12576865606578.0,False
+201402,Daerah Khusus Ibukota Jakarta,"Tani, Hutan, dan Ikan",679.33,170543295777.0,False
+201501,Daerah Khusus Ibukota Jakarta,"Tani, Hutan, dan Ikan",682.79,6565851052.0,False
+201502,Daerah Khusus Ibukota Jakarta,"Tani, Hutan, dan Ikan",692.62,85603982864.0,False
+201601,Daerah Khusus Ibukota Jakarta,"Tani, Hutan, dan Ikan",694.16,3205001114.0,False
+201602,Daerah Khusus Ibukota Jakarta,"Tani, Hutan, dan Ikan",693.36,120084264442.0,False
+201701,Daerah Khusus Ibukota Jakarta,"Tani, Hutan, dan Ikan",695.01,41735289422.0,False
+201702,Daerah Khusus Ibukota Jakarta,"Tani, Hutan, dan Ikan",696.52,21553466948.0,False
+201801,Daerah Khusus Ibukota Jakarta,"Tani, Hutan, dan Ikan",696.13,-873487696747.0,False
+201802,Daerah Khusus Ibukota Jakarta,"Tani, Hutan, dan Ikan",697.92,-17606791023.0,False
+201901,Daerah Khusus Ibukota Jakarta,"Tani, Hutan, dan Ikan",698.41,8849279782.0,False
+201902,Daerah Khusus Ibukota Jakarta,"Tani, Hutan, dan Ikan",699.81,104962199807.0,False
+202001,Daerah Khusus Ibukota Jakarta,"Tani, Hutan, dan Ikan",701.48,100794457531.0,False
+202002,Daerah Khusus Ibukota Jakarta,"Tani, Hutan, dan Ikan",703.61,-42834342048.0,False
+202101,Daerah Khusus Ibukota Jakarta,"Tani, Hutan, dan Ikan",722.17,-88059795257.0,False
+202102,Daerah Khusus Ibukota Jakarta,"Tani, Hutan, dan Ikan",741.17,78031698290.0,False
+202201,Daerah Khusus Ibukota Jakarta,"Tani, Hutan, dan Ikan",733.88,8165454214.0,False
+202202,Daerah Khusus Ibukota Jakarta,"Tani, Hutan, dan Ikan",767.38,-39434096256.0,False
+202301,Daerah Khusus Ibukota Jakarta,"Tani, Hutan, dan Ikan",692.23,-95081220943.0,False
+202302,Daerah Khusus Ibukota Jakarta,"Tani, Hutan, dan Ikan",750.81,88631672273.0,False
+201402,Jambi,Tambang dan Gali,15613.18,3020918583.0,False
+201501,Jambi,Tambang dan Gali,15470.35,7502673526.0,False
+201502,Jambi,Tambang dan Gali,15409.54,2038248639.0,False
+201601,Jambi,Tambang dan Gali,15904.91,4542489747.0,False
+201602,Jambi,Tambang dan Gali,15111.98,7669323736.0,False
+201701,Jambi,Tambang dan Gali,16003.18,1418085333.0,False
+201702,Jambi,Tambang dan Gali,16203.86,14377410578.0,False
+201801,Jambi,Tambang dan Gali,16835.02,2777619692.0,False
+201802,Jambi,Tambang dan Gali,17269.15,76866066331.0,False
+201901,Jambi,Tambang dan Gali,17659.01,51411519239.0,False
+201902,Jambi,Tambang dan Gali,18050.31,11945168963.0,False
+202001,Jambi,Tambang dan Gali,17375.46,170746887164.0,False
+202002,Jambi,Tambang dan Gali,17613.5,7063610226.0,False
+202101,Jambi,Tambang dan Gali,16924.16,158442147205.0,False
+202102,Jambi,Tambang dan Gali,18806.06,31079910792.0,False
+202201,Jambi,Tambang dan Gali,18703.06,6486121828.0,False
+202202,Jambi,Tambang dan Gali,19798.97,206720636456.0,False
+202301,Jambi,Tambang dan Gali,19400.62,2424113603.0,False
+202302,Jambi,Tambang dan Gali,19117.34,222598440153.0,False
+201402,Jambi,"Tani, Hutan, dan Ikan",15525.68,47619311392.0,False
+201501,Jambi,"Tani, Hutan, dan Ikan",16495.74,863989552.0,False
+201502,Jambi,"Tani, Hutan, dan Ikan",16350.45,57338831000.0,False
+201601,Jambi,"Tani, Hutan, dan Ikan",17011.68,4012466107.0,False
+201602,Jambi,"Tani, Hutan, dan Ikan",17922.01,62925908184.0,False
+201701,Jambi,"Tani, Hutan, dan Ikan",18092.33,14305218947.0,False
+201702,Jambi,"Tani, Hutan, dan Ikan",18716.76,69249622938.0,False
+201801,Jambi,"Tani, Hutan, dan Ikan",18689.21,8632190037.0,False
+201802,Jambi,"Tani, Hutan, dan Ikan",19352.4,80262393359.0,False
+201901,Jambi,"Tani, Hutan, dan Ikan",19469.34,8149125200.0,False
+201902,Jambi,"Tani, Hutan, dan Ikan",19690.73,88045665962.0,False
+202001,Jambi,"Tani, Hutan, dan Ikan",19658.84,31647667100.0,False
+202002,Jambi,"Tani, Hutan, dan Ikan",20093.1,109316427741.0,False
+202101,Jambi,"Tani, Hutan, dan Ikan",20509.2,13006941271.0,False
+202102,Jambi,"Tani, Hutan, dan Ikan",20699.94,107418553494.0,False
+202201,Jambi,"Tani, Hutan, dan Ikan",21095.49,2038730653.0,False
+202202,Jambi,"Tani, Hutan, dan Ikan",22172.89,117583568710.0,False
+202301,Jambi,"Tani, Hutan, dan Ikan",22425.02,2236844201.0,False
+202302,Jambi,"Tani, Hutan, dan Ikan",23273.35,132294544948.0,False
+201402,Jawa Barat,Tambang dan Gali,13496.2,22055012971.0,False
+201501,Jawa Barat,Tambang dan Gali,13541.38,414375239.0,False
+201502,Jawa Barat,Tambang dan Gali,13862.44,29841900632.0,False
+201601,Jawa Barat,Tambang dan Gali,13039.84,3914515783.0,False
+201602,Jawa Barat,Tambang dan Gali,14098.84,29505499532.0,False
+201701,Jawa Barat,Tambang dan Gali,13139.35,430973539.0,False
+201702,Jawa Barat,Tambang dan Gali,13450.58,30759923193.0,False
+201801,Jawa Barat,Tambang dan Gali,12480.1,6269605954.0,False
+201802,Jawa Barat,Tambang dan Gali,13011.13,39559431083.0,False
+201901,Jawa Barat,Tambang dan Gali,12381.53,20405085406.0,False
+201902,Jawa Barat,Tambang dan Gali,12409.89,34021882857.0,False
+202001,Jawa Barat,Tambang dan Gali,11966.68,325986267713.0,False
+202002,Jawa Barat,Tambang dan Gali,11804.57,38157907052.0,False
+202101,Jawa Barat,Tambang dan Gali,11929.42,104596495345.0,False
+202102,Jawa Barat,Tambang dan Gali,12036.78,283399141728.0,False
+202201,Jawa Barat,Tambang dan Gali,12003.66,1738109332.0,False
+202202,Jawa Barat,Tambang dan Gali,11876.65,380787373484.0,False
+202301,Jawa Barat,Tambang dan Gali,11867.76,14197273096.0,False
+202302,Jawa Barat,Tambang dan Gali,11974.32,426153301115.0,False
+201402,Jawa Barat,"Tani, Hutan, dan Ikan",44545.38,48785837571.0,False
+201501,Jawa Barat,"Tani, Hutan, dan Ikan",50581.62,17853008535.0,False
+201502,Jawa Barat,"Tani, Hutan, dan Ikan",42221.17,56277818167.0,False
+201601,Jawa Barat,"Tani, Hutan, dan Ikan",51454.9,20526390767.0,False
+201602,Jawa Barat,"Tani, Hutan, dan Ikan",46641.68,42568777657.0,False
+201701,Jawa Barat,"Tani, Hutan, dan Ikan",54397.97,25063618284.0,False
+201702,Jawa Barat,"Tani, Hutan, dan Ikan",45271.41,224388381111.0,False
+201801,Jawa Barat,"Tani, Hutan, dan Ikan",54213.04,46379101067.0,False
+201802,Jawa Barat,"Tani, Hutan, dan Ikan",47539.17,79387872948.0,False
+201901,Jawa Barat,"Tani, Hutan, dan Ikan",55847.48,23305859538.0,False
+201902,Jawa Barat,"Tani, Hutan, dan Ikan",48749.27,52841054700.0,False
+202001,Jawa Barat,"Tani, Hutan, dan Ikan",55467.43,17752585038.0,False
+202002,Jawa Barat,"Tani, Hutan, dan Ikan",51533.36,139835082820.0,False
+202101,Jawa Barat,"Tani, Hutan, dan Ikan",55879.34,26453632192.0,False
+202102,Jawa Barat,"Tani, Hutan, dan Ikan",52527.22,113362365725.0,False
+202201,Jawa Barat,"Tani, Hutan, dan Ikan",57344.77,33631005398.0,False
+202202,Jawa Barat,"Tani, Hutan, dan Ikan",55841.62,136842047546.0,False
+202301,Jawa Barat,"Tani, Hutan, dan Ikan",57971.67,57651250463.0,False
+202302,Jawa Barat,"Tani, Hutan, dan Ikan",55336.74,91839943152.0,False
+201402,Jawa Tengah,Tambang dan Gali,7996.93,1890844558.0,False
+201501,Jawa Tengah,Tambang dan Gali,7737.04,463528090.0,False
+201502,Jawa Tengah,Tambang dan Gali,8541.12,594258697.0,False
+201601,Jawa Tengah,Tambang dan Gali,9271.95,62377107.0,False
+201602,Jawa Tengah,Tambang dan Gali,10095.64,4930004730.0,False
+201701,Jawa Tengah,Tambang dan Gali,9934.71,95507979.0,False
+201702,Jawa Tengah,Tambang dan Gali,10421.78,1620906181.0,False
+201801,Jawa Tengah,Tambang dan Gali,10310.65,49692166.0,False
+201802,Jawa Tengah,Tambang dan Gali,10545.34,2439345713.0,False
+201901,Jawa Tengah,Tambang dan Gali,10774.65,1575988226.0,False
+201902,Jawa Tengah,Tambang dan Gali,10782.46,4884025017.0,False
+202001,Jawa Tengah,Tambang dan Gali,10779.18,37877429004.0,False
+202002,Jawa Tengah,Tambang dan Gali,10606.09,9729638633.0,False
+202101,Jawa Tengah,Tambang dan Gali,10833.26,37149810104.0,False
+202102,Jawa Tengah,Tambang dan Gali,11492.9,22471702400.0,False
+202201,Jawa Tengah,Tambang dan Gali,10527.22,292485291.0,False
+202202,Jawa Tengah,Tambang dan Gali,10415.44,64715462883.0,False
+202301,Jawa Tengah,Tambang dan Gali,10389.27,1346501762.0,False
+202302,Jawa Tengah,Tambang dan Gali,10842.82,70719283133.0,False
+201402,Jawa Tengah,"Tani, Hutan, dan Ikan",52455.06,89882442842.0,False
+201501,Jawa Tengah,"Tani, Hutan, dan Ikan",58555.15,303755331.0,False
+201502,Jawa Tengah,"Tani, Hutan, dan Ikan",55271.16,102672140169.0,False
+201601,Jawa Tengah,"Tani, Hutan, dan Ikan",58001.9,6899007552.0,False
+201602,Jawa Tengah,"Tani, Hutan, dan Ikan",58329.22,42517591878.0,False
+201701,Jawa Tengah,"Tani, Hutan, dan Ikan",59952.86,1829733318.0,False
+201702,Jawa Tengah,"Tani, Hutan, dan Ikan",58497.31,74566546228.0,False
+201801,Jawa Tengah,"Tani, Hutan, dan Ikan",61422.45,-6403220438.0,False
+201802,Jawa Tengah,"Tani, Hutan, dan Ikan",60132.03,169321185925.0,False
+201901,Jawa Tengah,"Tani, Hutan, dan Ikan",63208.2,4179326508.0,False
+201902,Jawa Tengah,"Tani, Hutan, dan Ikan",59941.82,62132250169.0,False
+202001,Jawa Tengah,"Tani, Hutan, dan Ikan",62025.83,6137196257.0,False
+202002,Jawa Tengah,"Tani, Hutan, dan Ikan",64085.94,129207749364.0,False
+202101,Jawa Tengah,"Tani, Hutan, dan Ikan",64310.02,3355892356.0,False
+202102,Jawa Tengah,"Tani, Hutan, dan Ikan",62755.83,127242625673.0,False
+202201,Jawa Tengah,"Tani, Hutan, dan Ikan",67345.79,4546084827.0,False
+202202,Jawa Tengah,"Tani, Hutan, dan Ikan",63416.73,99612978423.0,False
+202301,Jawa Tengah,"Tani, Hutan, dan Ikan",68756.53,10167034157.0,False
+202302,Jawa Tengah,"Tani, Hutan, dan Ikan",62574.01,26020066845.0,False
+201402,Jawa Timur,Tambang dan Gali,30830.14,10102914062.0,False
+201501,Jawa Timur,Tambang dan Gali,31772.58,251699560.0,False
+201502,Jawa Timur,Tambang dan Gali,33934.43,12158127137.0,False
+201601,Jawa Timur,Tambang dan Gali,35014.18,424725459.0,False
+201602,Jawa Timur,Tambang dan Gali,40010.72,14296520006.0,False
+201701,Jawa Timur,Tambang dan Gali,38742.58,894437016.0,False
+201702,Jawa Timur,Tambang dan Gali,41893.8,10712356054.0,False
+201801,Jawa Timur,Tambang dan Gali,40331.1,187780110.0,False
+201802,Jawa Timur,Tambang dan Gali,42242.46,32058618240.0,False
+201901,Jawa Timur,Tambang dan Gali,41241.49,1538345330.0,False
+201902,Jawa Timur,Tambang dan Gali,42605.52,52580279249.0,False
+202001,Jawa Timur,Tambang dan Gali,40418.75,92991228381.0,False
+202002,Jawa Timur,Tambang dan Gali,40479.21,64443631307.0,False
+202101,Jawa Timur,Tambang dan Gali,39441.15,90660321349.0,False
+202102,Jawa Timur,Tambang dan Gali,37828.89,78658404160.0,False
+202201,Jawa Timur,Tambang dan Gali,35869.25,314046748.0,False
+202202,Jawa Timur,Tambang dan Gali,35995.94,152980338340.0,False
+202301,Jawa Timur,Tambang dan Gali,36744.46,675676791.0,False
+202302,Jawa Timur,Tambang dan Gali,36313.32,144786499003.0,False
+201402,Jawa Timur,"Tani, Hutan, dan Ikan",75423.29,69173146960.0,False
+201501,Jawa Timur,"Tani, Hutan, dan Ikan",83029.73,22610088345.0,False
+201502,Jawa Timur,"Tani, Hutan, dan Ikan",77859.66,125633109346.0,False
+201601,Jawa Timur,"Tani, Hutan, dan Ikan",84912.63,30505093243.0,False
+201602,Jawa Timur,"Tani, Hutan, dan Ikan",79850.28,44097143946.0,False
+201701,Jawa Timur,"Tani, Hutan, dan Ikan",85983.07,15540524133.0,False
+201702,Jawa Timur,"Tani, Hutan, dan Ikan",81377.49,106822501251.0,False
+201801,Jawa Timur,"Tani, Hutan, dan Ikan",83589.0,83706146841.0,False
+201802,Jawa Timur,"Tani, Hutan, dan Ikan",80210.94,125939778132.0,False
+201901,Jawa Timur,"Tani, Hutan, dan Ikan",85395.08,30158372852.0,False
+201902,Jawa Timur,"Tani, Hutan, dan Ikan",80556.15,59270132863.0,False
+202001,Jawa Timur,"Tani, Hutan, dan Ikan",85045.36,18854004957.0,False
+202002,Jawa Timur,"Tani, Hutan, dan Ikan",82585.88,142073664544.0,False
+202101,Jawa Timur,"Tani, Hutan, dan Ikan",86162.23,7418219223.0,False
+202102,Jawa Timur,"Tani, Hutan, dan Ikan",84394.55,197469380476.0,False
+202201,Jawa Timur,"Tani, Hutan, dan Ikan",88326.64,23057819917.0,False
+202202,Jawa Timur,"Tani, Hutan, dan Ikan",85420.92,154586227962.0,False
+202301,Jawa Timur,"Tani, Hutan, dan Ikan",90123.95,93848852992.0,False
+202302,Jawa Timur,"Tani, Hutan, dan Ikan",87544.42,69740177980.0,False
+201402,Kalimantan Barat,Tambang dan Gali,2411.76,15222326714.0,False
+201501,Kalimantan Barat,Tambang dan Gali,2305.12,7924244942.0,False
+201502,Kalimantan Barat,Tambang dan Gali,2317.26,12515737096.0,False
+201601,Kalimantan Barat,Tambang dan Gali,2469.91,3429874982.0,False
+201602,Kalimantan Barat,Tambang dan Gali,3146.99,21619484465.0,False
+201701,Kalimantan Barat,Tambang dan Gali,2615.39,12039233565.0,False
+201702,Kalimantan Barat,Tambang dan Gali,3101.33,10062038010.0,False
+201801,Kalimantan Barat,Tambang dan Gali,2844.39,6741937617.0,False
+201802,Kalimantan Barat,Tambang dan Gali,3396.66,1005347546.0,False
+201901,Kalimantan Barat,Tambang dan Gali,3113.78,3129880668.0,False
+201902,Kalimantan Barat,Tambang dan Gali,3558.06,27740720791.0,False
+202001,Kalimantan Barat,Tambang dan Gali,3999.34,4165246407.0,False
+202002,Kalimantan Barat,Tambang dan Gali,3926.96,66229878028.0,False
+202101,Kalimantan Barat,Tambang dan Gali,3488.39,8023847650.0,False
+202102,Kalimantan Barat,Tambang dan Gali,4647.73,49124904965.0,False
+202201,Kalimantan Barat,Tambang dan Gali,4408.12,17885594383.0,False
+202202,Kalimantan Barat,Tambang dan Gali,3925.76,50819189717.0,False
+202301,Kalimantan Barat,Tambang dan Gali,3580.81,9079518420.0,False
+202302,Kalimantan Barat,Tambang dan Gali,3441.2,78885888052.0,False
+201402,Kalimantan Barat,"Tani, Hutan, dan Ikan",12319.7,103822875733.0,False
+201501,Kalimantan Barat,"Tani, Hutan, dan Ikan",12962.61,9969416311.0,False
+201502,Kalimantan Barat,"Tani, Hutan, dan Ikan",12609.06,140599979255.0,False
+201601,Kalimantan Barat,"Tani, Hutan, dan Ikan",13477.31,20436362105.0,False
+201602,Kalimantan Barat,"Tani, Hutan, dan Ikan",13141.6,193920015999.0,False
+201701,Kalimantan Barat,"Tani, Hutan, dan Ikan",14427.85,17643878673.0,False
+201702,Kalimantan Barat,"Tani, Hutan, dan Ikan",13929.83,187000780049.0,False
+201801,Kalimantan Barat,"Tani, Hutan, dan Ikan",15446.73,59542184882.0,False
+201802,Kalimantan Barat,"Tani, Hutan, dan Ikan",14762.66,276788181559.0,False
+201901,Kalimantan Barat,"Tani, Hutan, dan Ikan",16236.94,16588012749.0,False
+201902,Kalimantan Barat,"Tani, Hutan, dan Ikan",15719.49,316369464797.0,False
+202001,Kalimantan Barat,"Tani, Hutan, dan Ikan",16521.62,20292399789.0,False
+202002,Kalimantan Barat,"Tani, Hutan, dan Ikan",15849.74,287394215448.0,False
+202101,Kalimantan Barat,"Tani, Hutan, dan Ikan",17762.31,40309750560.0,False
+202102,Kalimantan Barat,"Tani, Hutan, dan Ikan",16049.26,281706986269.0,False
+202201,Kalimantan Barat,"Tani, Hutan, dan Ikan",17167.16,37464502629.0,False
+202202,Kalimantan Barat,"Tani, Hutan, dan Ikan",17380.41,311819500552.0,False
+202301,Kalimantan Barat,"Tani, Hutan, dan Ikan",17416.09,10703664030.0,False
+202302,Kalimantan Barat,"Tani, Hutan, dan Ikan",17692.48,353010428733.0,False
+201402,Kalimantan Selatan,Tambang dan Gali,15202.22,153940467346.0,False
+201501,Kalimantan Selatan,Tambang dan Gali,15124.09,10097646590.0,False
+201502,Kalimantan Selatan,Tambang dan Gali,15163.61,162065257341.0,False
+201601,Kalimantan Selatan,Tambang dan Gali,14786.08,76335155897.0,False
+201602,Kalimantan Selatan,Tambang dan Gali,15610.46,130941065948.0,False
+201701,Kalimantan Selatan,Tambang dan Gali,15472.17,29021320321.0,False
+201702,Kalimantan Selatan,Tambang dan Gali,16168.89,181877857850.0,False
+201801,Kalimantan Selatan,Tambang dan Gali,15914.49,44058460336.0,False
+201802,Kalimantan Selatan,Tambang dan Gali,17026.46,273620870793.0,False
+201901,Kalimantan Selatan,Tambang dan Gali,16314.88,41148440916.0,False
+201902,Kalimantan Selatan,Tambang dan Gali,17072.7,378463662160.0,False
+202001,Kalimantan Selatan,Tambang dan Gali,15863.37,64036369523.0,False
+202002,Kalimantan Selatan,Tambang dan Gali,16043.04,267786798475.0,False
+202101,Kalimantan Selatan,Tambang dan Gali,15905.97,71241296650.0,False
+202102,Kalimantan Selatan,Tambang dan Gali,17320.77,229199691625.0,False
+202201,Kalimantan Selatan,Tambang dan Gali,16738.46,15966327565.0,False
+202202,Kalimantan Selatan,Tambang dan Gali,18355.11,511373208398.0,False
+202301,Kalimantan Selatan,Tambang dan Gali,17247.85,303468928815.0,False
+202302,Kalimantan Selatan,Tambang dan Gali,18928.24,2352381734618.0,False
+201402,Kalimantan Selatan,"Tani, Hutan, dan Ikan",8349.34,43438718069.0,False
+201501,Kalimantan Selatan,"Tani, Hutan, dan Ikan",7538.47,1485084726.0,False
+201502,Kalimantan Selatan,"Tani, Hutan, dan Ikan",8474.83,48968701331.0,False
+201601,Kalimantan Selatan,"Tani, Hutan, dan Ikan",7790.18,5116553595.0,False
+201602,Kalimantan Selatan,"Tani, Hutan, dan Ikan",8810.56,58010067446.0,False
+201701,Kalimantan Selatan,"Tani, Hutan, dan Ikan",8179.64,5479413967.0,False
+201702,Kalimantan Selatan,"Tani, Hutan, dan Ikan",9100.78,69757772746.0,False
+201801,Kalimantan Selatan,"Tani, Hutan, dan Ikan",8412.0,13244238276.0,False
+201802,Kalimantan Selatan,"Tani, Hutan, dan Ikan",9513.1,63823080408.0,False
+201901,Kalimantan Selatan,"Tani, Hutan, dan Ikan",8787.17,10005632533.0,False
+201902,Kalimantan Selatan,"Tani, Hutan, dan Ikan",9781.06,69660685960.0,False
+202001,Kalimantan Selatan,"Tani, Hutan, dan Ikan",8850.66,9294199384.0,False
+202002,Kalimantan Selatan,"Tani, Hutan, dan Ikan",9548.75,88509668244.0,False
+202101,Kalimantan Selatan,"Tani, Hutan, dan Ikan",8865.16,4089610889.0,False
+202102,Kalimantan Selatan,"Tani, Hutan, dan Ikan",9749.18,94433552934.0,False
+202201,Kalimantan Selatan,"Tani, Hutan, dan Ikan",8964.97,18860526769.0,False
+202202,Kalimantan Selatan,"Tani, Hutan, dan Ikan",9946.1,104359558610.0,False
+202301,Kalimantan Selatan,"Tani, Hutan, dan Ikan",9257.51,14705390089.0,False
+202302,Kalimantan Selatan,"Tani, Hutan, dan Ikan",10279.77,104349418706.0,False
+201402,Kalimantan Tengah,Tambang dan Gali,6188.45,74674501786.0,False
+201501,Kalimantan Tengah,Tambang dan Gali,6528.43,15080527524.0,False
+201502,Kalimantan Tengah,Tambang dan Gali,6126.13,39125641855.0,False
+201601,Kalimantan Tengah,Tambang dan Gali,6913.35,40898544297.0,False
+201602,Kalimantan Tengah,Tambang dan Gali,6702.92,54806247056.0,False
+201701,Kalimantan Tengah,Tambang dan Gali,7610.44,16021428495.0,False
+201702,Kalimantan Tengah,Tambang dan Gali,7186.18,52402184768.0,False
+201801,Kalimantan Tengah,Tambang dan Gali,7572.09,23441515460.0,False
+201802,Kalimantan Tengah,Tambang dan Gali,7182.03,85032650210.0,False
+201901,Kalimantan Tengah,Tambang dan Gali,8351.15,66730087464.0,False
+201902,Kalimantan Tengah,Tambang dan Gali,7167.27,128364174324.0,False
+202001,Kalimantan Tengah,Tambang dan Gali,8532.88,7674858505.0,False
+202002,Kalimantan Tengah,Tambang dan Gali,5757.37,151686262546.0,False
+202101,Kalimantan Tengah,Tambang dan Gali,7149.75,22854036907.0,False
+202102,Kalimantan Tengah,Tambang dan Gali,7249.47,143018176589.0,False
+202201,Kalimantan Tengah,Tambang dan Gali,9047.68,69149658065.0,False
+202202,Kalimantan Tengah,Tambang dan Gali,7605.17,415212807581.0,False
+202301,Kalimantan Tengah,Tambang dan Gali,7566.35,13118471383.0,False
+202302,Kalimantan Tengah,Tambang dan Gali,8224.41,1227286969125.0,False
+201402,Kalimantan Tengah,"Tani, Hutan, dan Ikan",8087.75,173456010226.0,False
+201501,Kalimantan Tengah,"Tani, Hutan, dan Ikan",8533.27,20113906707.0,False
+201502,Kalimantan Tengah,"Tani, Hutan, dan Ikan",8498.61,173731974203.0,False
+201601,Kalimantan Tengah,"Tani, Hutan, dan Ikan",8580.83,23044346509.0,False
+201602,Kalimantan Tengah,"Tani, Hutan, dan Ikan",9105.59,233339184235.0,False
+201701,Kalimantan Tengah,"Tani, Hutan, dan Ikan",9046.9,41542266720.0,False
+201702,Kalimantan Tengah,"Tani, Hutan, dan Ikan",9467.11,239041971063.0,False
+201801,Kalimantan Tengah,"Tani, Hutan, dan Ikan",9691.34,28397752139.0,False
+201802,Kalimantan Tengah,"Tani, Hutan, dan Ikan",10133.24,309805133515.0,False
+201901,Kalimantan Tengah,"Tani, Hutan, dan Ikan",10299.51,28395028034.0,False
+201902,Kalimantan Tengah,"Tani, Hutan, dan Ikan",10951.32,324147779405.0,False
+202001,Kalimantan Tengah,"Tani, Hutan, dan Ikan",10516.08,10555660432.0,False
+202002,Kalimantan Tengah,"Tani, Hutan, dan Ikan",10788.84,323593209106.0,False
+202101,Kalimantan Tengah,"Tani, Hutan, dan Ikan",10871.64,37621840769.0,False
+202102,Kalimantan Tengah,"Tani, Hutan, dan Ikan",11201.52,347893362421.0,False
+202201,Kalimantan Tengah,"Tani, Hutan, dan Ikan",11029.11,110129245109.0,False
+202202,Kalimantan Tengah,"Tani, Hutan, dan Ikan",11805.15,344123847038.0,False
+202301,Kalimantan Tengah,"Tani, Hutan, dan Ikan",11671.02,61709097491.0,False
+202302,Kalimantan Tengah,"Tani, Hutan, dan Ikan",12159.75,427956087364.0,False
+201402,Kalimantan Timur,Tambang dan Gali,117531.81,120552060658.0,False
+201501,Kalimantan Timur,Tambang dan Gali,111243.56,30268071312.0,False
+201502,Kalimantan Timur,Tambang dan Gali,109161.57,177791023336.0,False
+201601,Kalimantan Timur,Tambang dan Gali,105978.76,286721112428.0,False
+201602,Kalimantan Timur,Tambang dan Gali,106670.87,176449457362.0,False
+201701,Kalimantan Timur,Tambang dan Gali,109037.43,53578633943.0,False
+201702,Kalimantan Timur,Tambang dan Gali,107409.69,291767749762.0,False
+201801,Kalimantan Timur,Tambang dan Gali,108542.84,-15117662922.0,False
+201802,Kalimantan Timur,Tambang dan Gali,110143.88,639533300293.0,False
+201901,Kalimantan Timur,Tambang dan Gali,116309.49,23199463659.0,False
+201902,Kalimantan Timur,Tambang dan Gali,117371.13,1288370425443.0,False
+202001,Kalimantan Timur,Tambang dan Gali,111992.99,244416189967.0,False
+202002,Kalimantan Timur,Tambang dan Gali,110916.2,902054357072.0,False
+202101,Kalimantan Timur,Tambang dan Gali,112093.21,182654437374.0,False
+202102,Kalimantan Timur,Tambang dan Gali,115895.45,577000887587.0,False
+202201,Kalimantan Timur,Tambang dan Gali,114609.72,150732164102.0,False
+202202,Kalimantan Timur,Tambang dan Gali,121365.54,1666501798619.0,False
+202301,Kalimantan Timur,Tambang dan Gali,120489.26,241154381937.0,False
+202302,Kalimantan Timur,Tambang dan Gali,127690.65,3631176226546.0,False
+201402,Kalimantan Timur,"Tani, Hutan, dan Ikan",13881.46,114231792722.0,False
+201501,Kalimantan Timur,"Tani, Hutan, dan Ikan",14404.91,31372495443.0,False
+201502,Kalimantan Timur,"Tani, Hutan, dan Ikan",14102.01,159254962296.0,False
+201601,Kalimantan Timur,"Tani, Hutan, dan Ikan",14127.12,61099168122.0,False
+201602,Kalimantan Timur,"Tani, Hutan, dan Ikan",14512.28,159560737022.0,False
+201701,Kalimantan Timur,"Tani, Hutan, dan Ikan",14946.13,45769560071.0,False
+201702,Kalimantan Timur,"Tani, Hutan, dan Ikan",15315.26,106380395615.0,False
+201801,Kalimantan Timur,"Tani, Hutan, dan Ikan",15864.37,45157162560.0,False
+201802,Kalimantan Timur,"Tani, Hutan, dan Ikan",16275.79,218013876570.0,False
+201901,Kalimantan Timur,"Tani, Hutan, dan Ikan",16653.99,38178618044.0,False
+201902,Kalimantan Timur,"Tani, Hutan, dan Ikan",16701.19,261290712737.0,False
+202001,Kalimantan Timur,"Tani, Hutan, dan Ikan",16648.87,35509490721.0,False
+202002,Kalimantan Timur,"Tani, Hutan, dan Ikan",16377.83,204352563473.0,False
+202101,Kalimantan Timur,"Tani, Hutan, dan Ikan",16400.52,55117493862.0,False
+202102,Kalimantan Timur,"Tani, Hutan, dan Ikan",16603.38,349592130368.0,False
+202201,Kalimantan Timur,"Tani, Hutan, dan Ikan",16622.07,34623082653.0,False
+202202,Kalimantan Timur,"Tani, Hutan, dan Ikan",17090.51,336057349186.0,False
+202301,Kalimantan Timur,"Tani, Hutan, dan Ikan",16965.23,177127982135.0,False
+202302,Kalimantan Timur,"Tani, Hutan, dan Ikan",17585.95,449425027575.0,False
+201402,Kalimantan Utara,Tambang dan Gali,7726.11,14344743049.0,False
+201501,Kalimantan Utara,Tambang dan Gali,7500.71,10848312510.0,False
+201502,Kalimantan Utara,Tambang dan Gali,7441.14,17825572697.0,False
+201601,Kalimantan Utara,Tambang dan Gali,7062.13,15704507293.0,False
+201602,Kalimantan Utara,Tambang dan Gali,7353.51,32146929445.0,False
+201701,Kalimantan Utara,Tambang dan Gali,7635.51,3442368680.0,False
+201702,Kalimantan Utara,Tambang dan Gali,7808.36,18285833978.0,False
+201801,Kalimantan Utara,Tambang dan Gali,7754.25,2088063212.0,False
+201802,Kalimantan Utara,Tambang dan Gali,8233.28,60700595817.0,False
+201901,Kalimantan Utara,Tambang dan Gali,8396.4,6803142382.0,False
+201902,Kalimantan Utara,Tambang dan Gali,8406.01,61988870929.0,False
+202001,Kalimantan Utara,Tambang dan Gali,7991.03,97537466631.0,False
+202002,Kalimantan Utara,Tambang dan Gali,7673.19,86710715183.0,False
+202101,Kalimantan Utara,Tambang dan Gali,8109.61,112385505894.0,False
+202102,Kalimantan Utara,Tambang dan Gali,8616.16,63689319947.0,False
+202201,Kalimantan Utara,Tambang dan Gali,8814.06,6849028365.0,False
+202202,Kalimantan Utara,Tambang dan Gali,9103.9,327379833794.0,False
+202301,Kalimantan Utara,Tambang dan Gali,9151.98,7321574190.0,False
+202302,Kalimantan Utara,Tambang dan Gali,9409.44,531033794784.0,False
+201402,Kalimantan Utara,"Tani, Hutan, dan Ikan",4124.81,29546568731.0,False
+201501,Kalimantan Utara,"Tani, Hutan, dan Ikan",4298.23,4044883219.0,False
+201502,Kalimantan Utara,"Tani, Hutan, dan Ikan",4275.78,30643645501.0,False
+201601,Kalimantan Utara,"Tani, Hutan, dan Ikan",4508.28,-5891002087.0,False
+201602,Kalimantan Utara,"Tani, Hutan, dan Ikan",4513.45,30982403598.0,False
+201701,Kalimantan Utara,"Tani, Hutan, dan Ikan",4670.88,14119059942.0,False
+201702,Kalimantan Utara,"Tani, Hutan, dan Ikan",4751.94,44819786112.0,False
+201801,Kalimantan Utara,"Tani, Hutan, dan Ikan",4851.19,6862547657.0,False
+201802,Kalimantan Utara,"Tani, Hutan, dan Ikan",5090.01,51238251763.0,False
+201901,Kalimantan Utara,"Tani, Hutan, dan Ikan",5072.28,2626438018.0,False
+201902,Kalimantan Utara,"Tani, Hutan, dan Ikan",5403.37,52233930871.0,False
+202001,Kalimantan Utara,"Tani, Hutan, dan Ikan",5502.66,3995069280.0,False
+202002,Kalimantan Utara,"Tani, Hutan, dan Ikan",5422.98,56570781528.0,False
+202101,Kalimantan Utara,"Tani, Hutan, dan Ikan",5525.87,16660409427.0,False
+202102,Kalimantan Utara,"Tani, Hutan, dan Ikan",5774.64,71966751663.0,False
+202201,Kalimantan Utara,"Tani, Hutan, dan Ikan",5634.27,7679153835.0,False
+202202,Kalimantan Utara,"Tani, Hutan, dan Ikan",6088.81,85660502001.0,False
+202301,Kalimantan Utara,"Tani, Hutan, dan Ikan",6002.73,9296059353.0,False
+202302,Kalimantan Utara,"Tani, Hutan, dan Ikan",6227.19,65343705216.0,False
+201402,Kepulauan Bangka Belitung,Tambang dan Gali,3233.41,54695101359.0,False
+201501,Kepulauan Bangka Belitung,Tambang dan Gali,3256.74,1235332835.0,False
+201502,Kepulauan Bangka Belitung,Tambang dan Gali,3201.35,55020700597.0,False
+201601,Kepulauan Bangka Belitung,Tambang dan Gali,3191.09,2160981062.0,False
+201602,Kepulauan Bangka Belitung,Tambang dan Gali,3299.48,64412362900.0,False
+201701,Kepulauan Bangka Belitung,Tambang dan Gali,3370.23,10702387670.0,False
+201702,Kepulauan Bangka Belitung,Tambang dan Gali,3264.52,62039955215.0,False
+201801,Kepulauan Bangka Belitung,Tambang dan Gali,3213.17,2810822861.0,False
+201802,Kepulauan Bangka Belitung,Tambang dan Gali,3358.31,68382658984.0,False
+201901,Kepulauan Bangka Belitung,Tambang dan Gali,3355.79,1960836953.0,False
+201902,Kepulauan Bangka Belitung,Tambang dan Gali,3276.87,86038893699.0,False
+202001,Kepulauan Bangka Belitung,Tambang dan Gali,3036.34,3645789783.0,False
+202002,Kepulauan Bangka Belitung,Tambang dan Gali,2999.66,131563507488.0,False
+202101,Kepulauan Bangka Belitung,Tambang dan Gali,3073.57,4015612673.0,False
+202102,Kepulauan Bangka Belitung,Tambang dan Gali,3377.12,69133432366.0,False
+202201,Kepulauan Bangka Belitung,Tambang dan Gali,3146.91,6862493404.0,False
+202202,Kepulauan Bangka Belitung,Tambang dan Gali,3336.82,108567163687.0,False
+202301,Kepulauan Bangka Belitung,Tambang dan Gali,3097.75,-14167409033.0,False
+202302,Kepulauan Bangka Belitung,Tambang dan Gali,3308.38,86381308453.0,False
+201402,Kepulauan Bangka Belitung,"Tani, Hutan, dan Ikan",4155.79,15191729745.0,False
+201501,Kepulauan Bangka Belitung,"Tani, Hutan, dan Ikan",4265.17,356121340.0,False
+201502,Kepulauan Bangka Belitung,"Tani, Hutan, dan Ikan",4478.33,-5865535676.0,False
+201601,Kepulauan Bangka Belitung,"Tani, Hutan, dan Ikan",4493.45,1319047720.0,False
+201602,Kepulauan Bangka Belitung,"Tani, Hutan, dan Ikan",4629.73,27942538099.0,False
+201701,Kepulauan Bangka Belitung,"Tani, Hutan, dan Ikan",4528.61,3417781538.0,False
+201702,Kepulauan Bangka Belitung,"Tani, Hutan, dan Ikan",4567.09,26160013090.0,False
+201801,Kepulauan Bangka Belitung,"Tani, Hutan, dan Ikan",4797.86,3575795060.0,False
+201802,Kepulauan Bangka Belitung,"Tani, Hutan, dan Ikan",4791.86,29573427567.0,False
+201901,Kepulauan Bangka Belitung,"Tani, Hutan, dan Ikan",4854.51,1778357744.0,False
+201902,Kepulauan Bangka Belitung,"Tani, Hutan, dan Ikan",5008.32,38107494905.0,False
+202001,Kepulauan Bangka Belitung,"Tani, Hutan, dan Ikan",5151.5,733103802.0,False
+202002,Kepulauan Bangka Belitung,"Tani, Hutan, dan Ikan",5514.87,40069429987.0,False
+202101,Kepulauan Bangka Belitung,"Tani, Hutan, dan Ikan",5270.54,3614059566.0,False
+202102,Kepulauan Bangka Belitung,"Tani, Hutan, dan Ikan",5498.17,41711247234.0,False
+202201,Kepulauan Bangka Belitung,"Tani, Hutan, dan Ikan",5220.37,1626832487.0,False
+202202,Kepulauan Bangka Belitung,"Tani, Hutan, dan Ikan",5655.32,3072757039.0,False
+202301,Kepulauan Bangka Belitung,"Tani, Hutan, dan Ikan",5577.58,1164482967.0,False
+202302,Kepulauan Bangka Belitung,"Tani, Hutan, dan Ikan",5704.3,48468557641.0,False
+201402,Lampung,Tambang dan Gali,5906.01,703218055.0,False
+201501,Lampung,Tambang dan Gali,5997.32,65687600.0,False
+201502,Lampung,Tambang dan Gali,6081.98,1530103758.0,False
+201601,Lampung,Tambang dan Gali,6148.45,345046285.0,False
+201602,Lampung,Tambang dan Gali,6457.88,2075218623.0,False
+201701,Lampung,Tambang dan Gali,6613.07,319101420.0,False
+201702,Lampung,Tambang dan Gali,6799.28,1819140043.0,False
+201801,Lampung,Tambang dan Gali,6781.4,364727658.0,False
+201802,Lampung,Tambang dan Gali,6903.13,1028245889.0,False
+201901,Lampung,Tambang dan Gali,7028.3,2697956160.0,False
+201902,Lampung,Tambang dan Gali,7025.42,1173839204.0,False
+202001,Lampung,Tambang dan Gali,6848.26,57321722318.0,False
+202002,Lampung,Tambang dan Gali,6682.7,5310036144.0,False
+202101,Lampung,Tambang dan Gali,6471.71,198743724.0,False
+202102,Lampung,Tambang dan Gali,6325.26,45208422453.0,False
+202201,Lampung,Tambang dan Gali,6166.43,1180396337.0,False
+202202,Lampung,Tambang dan Gali,6152.82,43809266190.0,False
+202301,Lampung,Tambang dan Gali,6062.62,1286772106.0,False
+202302,Lampung,Tambang dan Gali,6621.44,46209893331.0,False
+201402,Lampung,"Tani, Hutan, dan Ikan",29053.11,48120050558.0,False
+201501,Lampung,"Tani, Hutan, dan Ikan",34041.89,2734221583.0,False
+201502,Lampung,"Tani, Hutan, dan Ikan",29703.6,50663903175.0,False
+201601,Lampung,"Tani, Hutan, dan Ikan",34940.44,2653402309.0,False
+201602,Lampung,"Tani, Hutan, dan Ikan",30790.1,48139064857.0,False
+201701,Lampung,"Tani, Hutan, dan Ikan",35248.29,2728505312.0,False
+201702,Lampung,"Tani, Hutan, dan Ikan",31048.85,69972561617.0,False
+201801,Lampung,"Tani, Hutan, dan Ikan",35255.64,4260431085.0,False
+201802,Lampung,"Tani, Hutan, dan Ikan",31685.38,56578980755.0,False
+201901,Lampung,"Tani, Hutan, dan Ikan",35586.22,15383234420.0,False
+201902,Lampung,"Tani, Hutan, dan Ikan",32262.44,56662905394.0,False
+202001,Lampung,"Tani, Hutan, dan Ikan",35430.51,15236689334.0,False
+202002,Lampung,"Tani, Hutan, dan Ikan",32881.75,79860202922.0,False
+202101,Lampung,"Tani, Hutan, dan Ikan",35135.43,38080618876.0,False
+202102,Lampung,"Tani, Hutan, dan Ikan",32834.43,105099126912.0,False
+202201,Lampung,"Tani, Hutan, dan Ikan",35707.26,-580794521317.0,False
+202202,Lampung,"Tani, Hutan, dan Ikan",33610.4,82981951953.0,False
+202301,Lampung,"Tani, Hutan, dan Ikan",35902.05,56936436624.0,False
+202302,Lampung,"Tani, Hutan, dan Ikan",33795.94,67332566740.0,False
+201402,Riau,Tambang dan Gali,58126.2,812278319.0,False
+201501,Riau,Tambang dan Gali,53810.17,239578880.0,False
+201502,Riau,Tambang dan Gali,54739.02,3464409419.0,False
+201601,Riau,Tambang dan Gali,52552.21,217618400.0,False
+201602,Riau,Tambang dan Gali,51406.24,273098114.0,False
+201701,Riau,Tambang dan Gali,48942.24,298713912.0,False
+201702,Riau,Tambang dan Gali,48406.71,1234182949.0,False
+201801,Riau,Tambang dan Gali,46444.49,1076219778.0,False
+201802,Riau,Tambang dan Gali,45610.84,206300915093.0,False
+201901,Riau,Tambang dan Gali,43923.32,226539805727.0,False
+201902,Riau,Tambang dan Gali,41708.24,5370656324.0,False
+202001,Riau,Tambang dan Gali,41069.91,1521801716335.0,False
+202002,Riau,Tambang dan Gali,39120.88,35590872730.0,False
+202101,Riau,Tambang dan Gali,38778.27,1549763041935.0,False
+202102,Riau,Tambang dan Gali,38909.52,66788621221.0,False
+202201,Riau,Tambang dan Gali,39396.77,31843597264.0,False
+202202,Riau,Tambang dan Gali,39347.31,1652924543209.0,False
+202301,Riau,Tambang dan Gali,40651.64,16326200963.0,False
+202302,Riau,Tambang dan Gali,40078.58,1945086167920.0,False
+201402,Riau,"Tani, Hutan, dan Ikan",56687.73,216957000920.0,False
+201501,Riau,"Tani, Hutan, dan Ikan",52375.33,3397469030.0,False
+201502,Riau,"Tani, Hutan, dan Ikan",56593.71,236489394691.0,False
+201601,Riau,"Tani, Hutan, dan Ikan",54540.57,13192933956.0,False
+201602,Riau,"Tani, Hutan, dan Ikan",58747.02,287329409327.0,False
+201701,Riau,"Tani, Hutan, dan Ikan",57425.73,21501959727.0,False
+201702,Riau,"Tani, Hutan, dan Ikan",61855.91,326491625441.0,False
+201801,Riau,"Tani, Hutan, dan Ikan",60232.91,10704978453.0,False
+201802,Riau,"Tani, Hutan, dan Ikan",64314.95,319712594088.0,False
+201901,Riau,"Tani, Hutan, dan Ikan",62271.96,17996437086.0,False
+201902,Riau,"Tani, Hutan, dan Ikan",67418.44,357269486996.0,False
+202001,Riau,"Tani, Hutan, dan Ikan",65664.41,19151187759.0,False
+202002,Riau,"Tani, Hutan, dan Ikan",69459.8,444608876435.0,False
+202101,Riau,"Tani, Hutan, dan Ikan",68920.2,23889454858.0,False
+202102,Riau,"Tani, Hutan, dan Ikan",71797.53,401996225160.0,False
+202201,Riau,"Tani, Hutan, dan Ikan",70133.16,59283337735.0,False
+202202,Riau,"Tani, Hutan, dan Ikan",74557.88,404302229934.0,False
+202301,Riau,"Tani, Hutan, dan Ikan",72146.43,14567177941.0,False
+202302,Riau,"Tani, Hutan, dan Ikan",77214.68,447580648553.0,False
+201402,Sulawesi Selatan,Tambang dan Gali,7764.1,36953622514.0,False
+201501,Sulawesi Selatan,Tambang dan Gali,7293.28,97103795.0,False
+201502,Sulawesi Selatan,Tambang dan Gali,8509.67,36891440085.0,False
+201601,Sulawesi Selatan,Tambang dan Gali,7559.58,780015348.0,False
+201602,Sulawesi Selatan,Tambang dan Gali,8436.68,37407275226.0,False
+201701,Sulawesi Selatan,Tambang dan Gali,8049.74,1265120434.0,False
+201702,Sulawesi Selatan,Tambang dan Gali,8554.39,39104283653.0,False
+201801,Sulawesi Selatan,Tambang dan Gali,8295.42,1936953109.0,False
+201802,Sulawesi Selatan,Tambang dan Gali,8493.33,35213434500.0,False
+201901,Sulawesi Selatan,Tambang dan Gali,8177.82,6115606682.0,False
+201902,Sulawesi Selatan,Tambang dan Gali,9060.07,41699689149.0,False
+202001,Sulawesi Selatan,Tambang dan Gali,8720.38,9562948100.0,False
+202002,Sulawesi Selatan,Tambang dan Gali,8610.26,32535081710.0,False
+202101,Sulawesi Selatan,Tambang dan Gali,8061.08,2834204161.0,False
+202102,Sulawesi Selatan,Tambang dan Gali,9167.0,41894720112.0,False
+202201,Sulawesi Selatan,Tambang dan Gali,7957.8,2479097456.0,False
+202202,Sulawesi Selatan,Tambang dan Gali,9325.89,51664558311.0,False
+202301,Sulawesi Selatan,Tambang dan Gali,9382.02,298610110.0,False
+202302,Sulawesi Selatan,Tambang dan Gali,10257.33,64124982834.0,False
+201402,Sulawesi Selatan,"Tani, Hutan, dan Ikan",25793.59,4517894396.0,False
+201501,Sulawesi Selatan,"Tani, Hutan, dan Ikan",27290.56,1193548881.0,False
+201502,Sulawesi Selatan,"Tani, Hutan, dan Ikan",26808.54,4309293859.0,False
+201601,Sulawesi Selatan,"Tani, Hutan, dan Ikan",27998.52,6877726680.0,False
+201602,Sulawesi Selatan,"Tani, Hutan, dan Ikan",30352.74,3632840881.0,False
+201701,Sulawesi Selatan,"Tani, Hutan, dan Ikan",30634.95,2081270128.0,False
+201702,Sulawesi Selatan,"Tani, Hutan, dan Ikan",30962.26,8426537583.0,False
+201801,Sulawesi Selatan,"Tani, Hutan, dan Ikan",32560.8,6629444438.0,False
+201802,Sulawesi Selatan,"Tani, Hutan, dan Ikan",32254.65,5994597175.0,False
+201901,Sulawesi Selatan,"Tani, Hutan, dan Ikan",33951.16,7689643828.0,False
+201902,Sulawesi Selatan,"Tani, Hutan, dan Ikan",32664.78,18035881390.0,False
+202001,Sulawesi Selatan,"Tani, Hutan, dan Ikan",34048.68,2671543621.0,False
+202002,Sulawesi Selatan,"Tani, Hutan, dan Ikan",32091.21,14632123144.0,False
+202101,Sulawesi Selatan,"Tani, Hutan, dan Ikan",35770.31,2291038759.0,False
+202102,Sulawesi Selatan,"Tani, Hutan, dan Ikan",34587.5,16427220002.0,False
+202201,Sulawesi Selatan,"Tani, Hutan, dan Ikan",36409.73,3079835262.0,False
+202202,Sulawesi Selatan,"Tani, Hutan, dan Ikan",35752.99,14330045882.0,False
+202301,Sulawesi Selatan,"Tani, Hutan, dan Ikan",36915.78,2746793645.0,False
+202302,Sulawesi Selatan,"Tani, Hutan, dan Ikan",35310.53,21708618829.0,False
+201402,Sulawesi Tengah,Tambang dan Gali,3693.05,2087185487.0,False
+201501,Sulawesi Tengah,Tambang dan Gali,3954.74,154512877.0,False
+201502,Sulawesi Tengah,Tambang dan Gali,5268.45,7909693581.0,False
+201601,Sulawesi Tengah,Tambang dan Gali,6190.4,581307023.0,False
+201602,Sulawesi Tengah,Tambang dan Gali,6212.91,3088431594.0,False
+201701,Sulawesi Tengah,Tambang dan Gali,6777.27,1021383200.0,False
+201702,Sulawesi Tengah,Tambang dan Gali,7494.81,710624114.0,False
+201801,Sulawesi Tengah,Tambang dan Gali,8683.13,224794229.0,False
+201802,Sulawesi Tengah,Tambang dan Gali,8869.33,8132754213.0,False
+201901,Sulawesi Tengah,Tambang dan Gali,9434.79,9214863765.0,False
+201902,Sulawesi Tengah,Tambang dan Gali,10536.79,7337891473.0,False
+202001,Sulawesi Tengah,Tambang dan Gali,10524.82,10246311913.0,False
+202002,Sulawesi Tengah,Tambang dan Gali,11515.38,20622232629.0,False
+202101,Sulawesi Tengah,Tambang dan Gali,12124.03,-92432578959.0,False
+202102,Sulawesi Tengah,Tambang dan Gali,12615.34,43459735490.0,False
+202201,Sulawesi Tengah,Tambang dan Gali,13963.84,8464513815.0,False
+202202,Sulawesi Tengah,Tambang dan Gali,15856.58,103658209378.0,False
+202301,Sulawesi Tengah,Tambang dan Gali,15626.95,57657891423.0,False
+202302,Sulawesi Tengah,Tambang dan Gali,17611.07,107083874205.0,False
+201402,Sulawesi Tengah,"Tani, Hutan, dan Ikan",12686.71,10689522044.0,False
+201501,Sulawesi Tengah,"Tani, Hutan, dan Ikan",13061.18,464670460.0,False
+201502,Sulawesi Tengah,"Tani, Hutan, dan Ikan",13236.64,10053508321.0,False
+201601,Sulawesi Tengah,"Tani, Hutan, dan Ikan",13422.56,3272124048.0,False
+201602,Sulawesi Tengah,"Tani, Hutan, dan Ikan",13506.92,12650961430.0,False
+201701,Sulawesi Tengah,"Tani, Hutan, dan Ikan",14053.02,165601424.0,False
+201702,Sulawesi Tengah,"Tani, Hutan, dan Ikan",14078.31,16142489135.0,False
+201801,Sulawesi Tengah,"Tani, Hutan, dan Ikan",14697.29,586018813.0,False
+201802,Sulawesi Tengah,"Tani, Hutan, dan Ikan",14643.56,14391424555.0,False
+201901,Sulawesi Tengah,"Tani, Hutan, dan Ikan",15210.08,117567053.0,False
+201902,Sulawesi Tengah,"Tani, Hutan, dan Ikan",14785.91,15075720556.0,False
+202001,Sulawesi Tengah,"Tani, Hutan, dan Ikan",14943.34,1302657813.0,False
+202002,Sulawesi Tengah,"Tani, Hutan, dan Ikan",14650.32,17032293402.0,False
+202101,Sulawesi Tengah,"Tani, Hutan, dan Ikan",15103.77,122322411644.0,False
+202102,Sulawesi Tengah,"Tani, Hutan, dan Ikan",15689.35,26197475501.0,False
+202201,Sulawesi Tengah,"Tani, Hutan, dan Ikan",15755.17,3808205043.0,False
+202202,Sulawesi Tengah,"Tani, Hutan, dan Ikan",15884.4,20290096659.0,False
+202301,Sulawesi Tengah,"Tani, Hutan, dan Ikan",16097.5,893201870.0,False
+202302,Sulawesi Tengah,"Tani, Hutan, dan Ikan",16127.24,21986843531.0,False
+201402,Sulawesi Tenggara,Tambang dan Gali,7193.12,24752853521.0,False
+201501,Sulawesi Tenggara,Tambang dan Gali,7475.66,8610467335.0,False
+201502,Sulawesi Tenggara,Tambang dan Gali,7914.23,20041660658.0,False
+201601,Sulawesi Tenggara,Tambang dan Gali,7368.66,17274804656.0,False
+201602,Sulawesi Tenggara,Tambang dan Gali,8065.74,17728906941.0,False
+201701,Sulawesi Tenggara,Tambang dan Gali,8365.75,9704152589.0,False
+201702,Sulawesi Tenggara,Tambang dan Gali,9040.06,16408427787.0,False
+201801,Sulawesi Tenggara,Tambang dan Gali,8821.73,7378075815.0,False
+201802,Sulawesi Tenggara,Tambang dan Gali,9708.17,41340520147.0,False
+201901,Sulawesi Tenggara,Tambang dan Gali,9366.37,6441534364.0,False
+201902,Sulawesi Tenggara,Tambang dan Gali,10457.98,66862356912.0,False
+202001,Sulawesi Tenggara,Tambang dan Gali,9042.59,13062578534.0,False
+202002,Sulawesi Tenggara,Tambang dan Gali,9462.6,58292014216.0,False
+202101,Sulawesi Tenggara,Tambang dan Gali,8868.4,101121167972.0,False
+202102,Sulawesi Tenggara,Tambang dan Gali,9691.09,69124927330.0,False
+202201,Sulawesi Tenggara,Tambang dan Gali,8997.73,24457866589.0,False
+202202,Sulawesi Tenggara,Tambang dan Gali,9840.49,168985934058.0,False
+202301,Sulawesi Tenggara,Tambang dan Gali,9889.23,26011165015.0,False
+202302,Sulawesi Tenggara,Tambang dan Gali,10457.8,192634168236.0,False
+201402,Sulawesi Tenggara,"Tani, Hutan, dan Ikan",8606.59,1509439045.0,False
+201501,Sulawesi Tenggara,"Tani, Hutan, dan Ikan",8269.68,158669614.0,False
+201502,Sulawesi Tenggara,"Tani, Hutan, dan Ikan",8700.78,9586800555.0,False
+201601,Sulawesi Tenggara,"Tani, Hutan, dan Ikan",8941.08,301625000.0,False
+201602,Sulawesi Tenggara,"Tani, Hutan, dan Ikan",9329.1,2807292218.0,False
+201701,Sulawesi Tenggara,"Tani, Hutan, dan Ikan",9442.59,1093814996.0,False
+201702,Sulawesi Tenggara,"Tani, Hutan, dan Ikan",9880.67,7087552113.0,False
+201801,Sulawesi Tenggara,"Tani, Hutan, dan Ikan",10023.64,4982212765.0,False
+201802,Sulawesi Tenggara,"Tani, Hutan, dan Ikan",10530.99,6610971236.0,False
+201901,Sulawesi Tenggara,"Tani, Hutan, dan Ikan",10611.89,952156220.0,False
+201902,Sulawesi Tenggara,"Tani, Hutan, dan Ikan",10969.15,8538295709.0,False
+202001,Sulawesi Tenggara,"Tani, Hutan, dan Ikan",10862.53,1948663744.0,False
+202002,Sulawesi Tenggara,"Tani, Hutan, dan Ikan",10865.83,10307420349.0,False
+202101,Sulawesi Tenggara,"Tani, Hutan, dan Ikan",11029.99,1248672637.0,False
+202102,Sulawesi Tenggara,"Tani, Hutan, dan Ikan",11217.13,11835513160.0,False
+202201,Sulawesi Tenggara,"Tani, Hutan, dan Ikan",11681.0,1065325357.0,False
+202202,Sulawesi Tenggara,"Tani, Hutan, dan Ikan",12073.98,12531709771.0,False
+202301,Sulawesi Tenggara,"Tani, Hutan, dan Ikan",12361.96,2760199755.0,False
+202302,Sulawesi Tenggara,"Tani, Hutan, dan Ikan",12417.78,11813359528.0,False
+201402,Sulawesi Utara,Tambang dan Gali,1726.94,9267066922.0,False
+201501,Sulawesi Utara,Tambang dan Gali,1660.75,143766000.0,False
+201502,Sulawesi Utara,Tambang dan Gali,1843.01,11694591273.0,False
+201601,Sulawesi Utara,Tambang dan Gali,1734.65,526877312.0,False
+201602,Sulawesi Utara,Tambang dan Gali,1924.66,12443548802.0,False
+201701,Sulawesi Utara,Tambang dan Gali,1908.1,298845746.0,False
+201702,Sulawesi Utara,Tambang dan Gali,2083.07,43110062686.0,False
+201801,Sulawesi Utara,Tambang dan Gali,2035.11,742492407.0,False
+201802,Sulawesi Utara,Tambang dan Gali,2309.11,59296736591.0,False
+201901,Sulawesi Utara,Tambang dan Gali,2214.02,1328570.0,False
+201902,Sulawesi Utara,Tambang dan Gali,2479.99,66867346219.0,False
+202001,Sulawesi Utara,Tambang dan Gali,2253.8,10651037938.0,False
+202002,Sulawesi Utara,Tambang dan Gali,2376.7,68972576643.0,False
+202101,Sulawesi Utara,Tambang dan Gali,2392.77,470102588.0,False
+202102,Sulawesi Utara,Tambang dan Gali,2476.4,99051189589.0,False
+202201,Sulawesi Utara,Tambang dan Gali,2392.59,20613688414.0,False
+202202,Sulawesi Utara,Tambang dan Gali,2489.07,22799870995.0,False
+202301,Sulawesi Utara,Tambang dan Gali,2264.11,71994278996.0,False
+202302,Sulawesi Utara,Tambang dan Gali,2644.35,49406965509.0,False
+201402,Sulawesi Utara,"Tani, Hutan, dan Ikan",7607.39,417440914.0,False
+201501,Sulawesi Utara,"Tani, Hutan, dan Ikan",6902.9,197164674.0,False
+201502,Sulawesi Utara,"Tani, Hutan, dan Ikan",7702.62,283164167.0,False
+201601,Sulawesi Utara,"Tani, Hutan, dan Ikan",7053.02,293999571.0,False
+201602,Sulawesi Utara,"Tani, Hutan, dan Ikan",8088.87,582840154.0,False
+201701,Sulawesi Utara,"Tani, Hutan, dan Ikan",7393.21,544322606.0,False
+201702,Sulawesi Utara,"Tani, Hutan, dan Ikan",8421.11,1007126573.0,False
+201801,Sulawesi Utara,"Tani, Hutan, dan Ikan",7560.44,215180647.0,False
+201802,Sulawesi Utara,"Tani, Hutan, dan Ikan",8806.81,1340593501.0,False
+201901,Sulawesi Utara,"Tani, Hutan, dan Ikan",8268.06,108484032.0,False
+201902,Sulawesi Utara,"Tani, Hutan, dan Ikan",9052.43,1350101131.0,False
+202001,Sulawesi Utara,"Tani, Hutan, dan Ikan",8453.16,1014963855.0,False
+202002,Sulawesi Utara,"Tani, Hutan, dan Ikan",9252.29,1120799654.0,False
+202101,Sulawesi Utara,"Tani, Hutan, dan Ikan",8668.83,581187689.0,False
+202102,Sulawesi Utara,"Tani, Hutan, dan Ikan",9371.3,1886723416.0,False
+202201,Sulawesi Utara,"Tani, Hutan, dan Ikan",9303.14,732956604.0,False
+202202,Sulawesi Utara,"Tani, Hutan, dan Ikan",9884.03,1922745793.0,False
+202301,Sulawesi Utara,"Tani, Hutan, dan Ikan",9781.5,481214267.0,False
+202302,Sulawesi Utara,"Tani, Hutan, dan Ikan",10254.83,2293690672.0,False
+201402,Sumatera Barat,Tambang dan Gali,2988.86,3360943398.0,False
+201501,Sumatera Barat,Tambang dan Gali,3109.78,220636567.0,False
+201502,Sumatera Barat,Tambang dan Gali,3034.79,4392538233.0,False
+201601,Sumatera Barat,Tambang dan Gali,3052.65,518635170.0,False
+201602,Sumatera Barat,Tambang dan Gali,3214.96,5282135353.0,False
+201701,Sumatera Barat,Tambang dan Gali,3117.55,324521034.0,False
+201702,Sumatera Barat,Tambang dan Gali,3220.71,5388711876.0,False
+201801,Sumatera Barat,Tambang dan Gali,3237.58,689746197.0,False
+201802,Sumatera Barat,Tambang dan Gali,3467.47,5858080709.0,False
+201901,Sumatera Barat,Tambang dan Gali,3402.38,723023234.0,False
+201902,Sumatera Barat,Tambang dan Gali,3719.47,12441226305.0,False
+202001,Sumatera Barat,Tambang dan Gali,3419.32,591565426.0,False
+202002,Sumatera Barat,Tambang dan Gali,3609.59,23648192398.0,False
+202101,Sumatera Barat,Tambang dan Gali,3402.37,1140537532.0,False
+202102,Sumatera Barat,Tambang dan Gali,3502.18,37542206188.0,False
+202201,Sumatera Barat,Tambang dan Gali,3498.24,756323974.0,False
+202202,Sumatera Barat,Tambang dan Gali,3540.04,42697807407.0,False
+202301,Sumatera Barat,Tambang dan Gali,3529.31,219074107.0,False
+202302,Sumatera Barat,Tambang dan Gali,3836.5,49656747101.0,False
+201402,Sumatera Barat,"Tani, Hutan, dan Ikan",16362.93,33775078007.0,False
+201501,Sumatera Barat,"Tani, Hutan, dan Ikan",16127.28,1990529068.0,False
+201502,Sumatera Barat,"Tani, Hutan, dan Ikan",17419.47,43799927662.0,False
+201601,Sumatera Barat,"Tani, Hutan, dan Ikan",16770.27,3881995829.0,False
+201602,Sumatera Barat,"Tani, Hutan, dan Ikan",17452.29,44001064284.0,False
+201701,Sumatera Barat,"Tani, Hutan, dan Ikan",17466.48,3095336723.0,False
+201702,Sumatera Barat,"Tani, Hutan, dan Ikan",17928.22,52807809649.0,False
+201801,Sumatera Barat,"Tani, Hutan, dan Ikan",18012.23,1517444356.0,False
+201802,Sumatera Barat,"Tani, Hutan, dan Ikan",18627.36,55116671888.0,False
+201901,Sumatera Barat,"Tani, Hutan, dan Ikan",18553.57,2011858761.0,False
+201902,Sumatera Barat,"Tani, Hutan, dan Ikan",18995.88,61419930857.0,False
+202001,Sumatera Barat,"Tani, Hutan, dan Ikan",18832.94,573188867.0,False
+202002,Sumatera Barat,"Tani, Hutan, dan Ikan",19160.45,62120497899.0,False
+202101,Sumatera Barat,"Tani, Hutan, dan Ikan",18997.2,13210717192.0,False
+202102,Sumatera Barat,"Tani, Hutan, dan Ikan",19823.51,56819265725.0,False
+202201,Sumatera Barat,"Tani, Hutan, dan Ikan",19581.99,2014635495.0,False
+202202,Sumatera Barat,"Tani, Hutan, dan Ikan",20606.65,72044777003.0,False
+202301,Sumatera Barat,"Tani, Hutan, dan Ikan",20397.06,1154800011.0,False
+202302,Sumatera Barat,"Tani, Hutan, dan Ikan",21215.77,73102823487.0,False
+201402,Sumatera Selatan,Tambang dan Gali,26861.86,94661117094.0,False
+201501,Sumatera Selatan,Tambang dan Gali,27428.82,159212358131.0,False
+201502,Sumatera Selatan,Tambang dan Gali,27901.45,138908466092.0,False
+201601,Sumatera Selatan,Tambang dan Gali,28044.38,12659914023.0,False
+201602,Sumatera Selatan,Tambang dan Gali,29259.14,112438600992.0,False
+201701,Sumatera Selatan,Tambang dan Gali,29397.88,19340783111.0,False
+201702,Sumatera Selatan,Tambang dan Gali,31000.48,119963482179.0,False
+201801,Sumatera Selatan,Tambang dan Gali,31694.86,-155772685398.0,False
+201802,Sumatera Selatan,Tambang dan Gali,34193.02,207643001293.0,False
+201901,Sumatera Selatan,Tambang dan Gali,34367.75,39930299690.0,False
+201902,Sumatera Selatan,Tambang dan Gali,36866.75,311507483620.0,False
+202001,Sumatera Selatan,Tambang dan Gali,33603.15,884291209543.0,False
+202002,Sumatera Selatan,Tambang dan Gali,34727.71,377801549526.0,False
+202101,Sumatera Selatan,Tambang dan Gali,34313.99,775708929597.0,False
+202102,Sumatera Selatan,Tambang dan Gali,37757.71,472083922960.0,False
+202201,Sumatera Selatan,Tambang dan Gali,36730.59,29387812109.0,False
+202202,Sumatera Selatan,Tambang dan Gali,39866.1,1533094974445.0,False
+202301,Sumatera Selatan,Tambang dan Gali,39786.65,-69257824803.0,False
+202302,Sumatera Selatan,Tambang dan Gali,42901.84,2044791966375.0,False
+201402,Sumatera Selatan,"Tani, Hutan, dan Ikan",24439.99,111194689846.0,False
+201501,Sumatera Selatan,"Tani, Hutan, dan Ikan",23406.23,30705105289.0,False
+201502,Sumatera Selatan,"Tani, Hutan, dan Ikan",24881.45,148769450131.0,False
+201601,Sumatera Selatan,"Tani, Hutan, dan Ikan",23896.92,8755666787.0,False
+201602,Sumatera Selatan,"Tani, Hutan, dan Ikan",25045.72,146418468946.0,False
+201701,Sumatera Selatan,"Tani, Hutan, dan Ikan",24522.16,4045318711.0,False
+201702,Sumatera Selatan,"Tani, Hutan, dan Ikan",24996.72,104479781338.0,False
+201801,Sumatera Selatan,"Tani, Hutan, dan Ikan",25017.71,18378069802.0,False
+201802,Sumatera Selatan,"Tani, Hutan, dan Ikan",25656.57,177221519894.0,False
+201901,Sumatera Selatan,"Tani, Hutan, dan Ikan",25954.32,11289873660.0,False
+201902,Sumatera Selatan,"Tani, Hutan, dan Ikan",26412.52,191626215262.0,False
+202001,Sumatera Selatan,"Tani, Hutan, dan Ikan",26764.63,10536039287.0,False
+202002,Sumatera Selatan,"Tani, Hutan, dan Ikan",26516.89,226071138256.0,False
+202101,Sumatera Selatan,"Tani, Hutan, dan Ikan",27534.22,32131264450.0,False
+202102,Sumatera Selatan,"Tani, Hutan, dan Ikan",27300.3,197978947326.0,False
+202201,Sumatera Selatan,"Tani, Hutan, dan Ikan",28617.83,13613978731.0,False
+202202,Sumatera Selatan,"Tani, Hutan, dan Ikan",28308.89,261100574211.0,False
+202301,Sumatera Selatan,"Tani, Hutan, dan Ikan",29345.07,42826209525.0,False
+202302,Sumatera Selatan,"Tani, Hutan, dan Ikan",28809.39,328146148308.0,False
+201402,Sumatera Utara,Tambang dan Gali,2810.62,13033155500.0,False
+201501,Sumatera Utara,Tambang dan Gali,2900.45,9564840.0,False
+201502,Sumatera Utara,Tambang dan Gali,2914.48,436239046.0,False
+201601,Sumatera Utara,Tambang dan Gali,3021.93,1411797100.0,False
+201602,Sumatera Utara,Tambang dan Gali,3123.06,251732000.0,False
+201701,Sumatera Utara,Tambang dan Gali,3164.26,-13859148705.0,False
+201702,Sumatera Utara,Tambang dan Gali,3276.27,22586290733.0,False
+201801,Sumatera Utara,Tambang dan Gali,3326.77,185336000.0,False
+201802,Sumatera Utara,Tambang dan Gali,3465.24,15362461011.0,False
+201901,Sumatera Utara,Tambang dan Gali,3481.82,1487842181.0,False
+201902,Sumatera Utara,Tambang dan Gali,3617.98,185336000.0,False
+202001,Sumatera Utara,Tambang dan Gali,3479.12,118659221765.0,False
+202002,Sumatera Utara,Tambang dan Gali,3456.93,107759530228.0,False
+202101,Sumatera Utara,Tambang dan Gali,3471.93,63197620879.0,False
+202102,Sumatera Utara,Tambang dan Gali,3597.17,147510031188.0,False
+202201,Sumatera Utara,Tambang dan Gali,3554.42,286545637.0,False
+202202,Sumatera Utara,Tambang dan Gali,3699.58,237554615996.0,False
+202301,Sumatera Utara,Tambang dan Gali,3688.69,4288185856.0,False
+202302,Sumatera Utara,Tambang dan Gali,3821.53,250230433877.0,False
+201402,Sumatera Utara,"Tani, Hutan, dan Ikan",52700.09,290156038147.0,False
+201501,Sumatera Utara,"Tani, Hutan, dan Ikan",54604.64,10613900825.0,False
+201502,Sumatera Utara,"Tani, Hutan, dan Ikan",55461.35,352193168169.0,False
+201601,Sumatera Utara,"Tani, Hutan, dan Ikan",57572.31,22091534204.0,False
+201602,Sumatera Utara,"Tani, Hutan, dan Ikan",57607.39,364220597674.0,False
+201701,Sumatera Utara,"Tani, Hutan, dan Ikan",59349.24,31390193663.0,False
+201702,Sumatera Utara,"Tani, Hutan, dan Ikan",61950.81,394949174990.0,False
+201801,Sumatera Utara,"Tani, Hutan, dan Ikan",61832.33,29476589178.0,False
+201802,Sumatera Utara,"Tani, Hutan, dan Ikan",65370.32,419070807631.0,False
+201901,Sumatera Utara,"Tani, Hutan, dan Ikan",65573.87,38482911269.0,False
+201902,Sumatera Utara,"Tani, Hutan, dan Ikan",68152.15,465637512891.0,False
+202001,Sumatera Utara,"Tani, Hutan, dan Ikan",68028.02,38771717001.0,False
+202002,Sumatera Utara,"Tani, Hutan, dan Ikan",68299.01,595794308834.0,False
+202101,Sumatera Utara,"Tani, Hutan, dan Ikan",69768.35,150322528961.0,False
+202102,Sumatera Utara,"Tani, Hutan, dan Ikan",71832.84,450726021861.0,False
+202201,Sumatera Utara,"Tani, Hutan, dan Ikan",73330.14,30586811636.0,False
+202202,Sumatera Utara,"Tani, Hutan, dan Ikan",75391.84,473405258998.0,False
+202301,Sumatera Utara,"Tani, Hutan, dan Ikan",75604.01,36751589838.0,False
+202302,Sumatera Utara,"Tani, Hutan, dan Ikan",77642.7,521992899059.0,False
