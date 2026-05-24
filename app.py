@@ -53,39 +53,39 @@ kamus_koreksi_provinsi = {
     "JAWA BARAT": "Jawa Barat",
     "ACEH": "Aceh",
     "KEPULAUAN BANGKA BELITUNG": "Bangka Belitung",
-    "DERAH ISTIMEWA YOGYAKARTA": "Daerah Istimewa Yogyakarta"
-    "SUMATERA UTARA": "Sumatera Utara"
-    "SUMATERA BARAT": "Sumatera Barat"
-    "SUMATERA SELATAN": "Sumatera Selatan"
-    "RIAU": "Riau"
-    "KEPULAUAN RIAU": "Kepulauan Riau"
-    "JAMBI": "Jambi"
-    "BENGKULU": "Bengkulu"
-    "LAMPUNG": "Lampung"
-    "BANTEN": "Banten"
-    "JAWA TENGAH": "Jawa Tengah"
-    "JAWA TIMUR": "Jawa Timur"
-    "KALIMANTAN BARAT": "Kalimantan Barat"
-    "KALIMANTAN SELATAN": "Kalimantan Selatan"
-    "KALIMANTAN TENGAH": "Kalimantan Tengah"
-    "KALIMANTAN TIMUR": "Kalimantan Timur"
-    "KALIMANTAN UTARA": "Kalimantan Utara"
-    "BALI": "Bali"
-    "NUSA TENGGARA BARAT": "Nusa Tenggara Barat"
-    "NUSA TENGGARA TIMUR": "Nusa Tenggara Timur"
-    "SULAWESI SELATAN": "Sulawesi Selatan"
-    "SULAWESI BARAT": "Sulawesi Barat"
-    "SULAWESI TENGGARA": "Sulawesi Tenggara"
-    "SULAWESI TENGAH": "Sulawesi Tengah"
-    "GORONTALO": "Gorontalo"
-    "SULAWESI UTARA": "Sulawesi Utara"
-    "MALUKU": "Maluku"
-    "MALUKU UTARA": "Maluku Utara"
-    "PAPUA": "Papua"
-    "PAPUA BARAT": "Papua Barat"
-    "PAPUA BARAT DAYA": "Papua Barat Daya"
-    "PAPUA PEGUNUNGAN": "Papua Pegunungan"
-    "PAPUA SELATAN": "Papua Selatan"
+    "DERAH ISTIMEWA YOGYAKARTA": "Daerah Istimewa Yogyakarta",
+    "SUMATERA UTARA": "Sumatera Utara",
+    "SUMATERA BARAT": "Sumatera Barat",
+    "SUMATERA SELATAN": "Sumatera Selatan",
+    "RIAU": "Riau",
+    "KEPULAUAN RIAU": "Kepulauan Riau",
+    "JAMBI": "Jambi",
+    "BENGKULU": "Bengkulu",
+    "LAMPUNG": "Lampung",
+    "BANTEN": "Banten",
+    "JAWA TENGAH": "Jawa Tengah",
+    "JAWA TIMUR": "Jawa Timur",
+    "KALIMANTAN BARAT": "Kalimantan Barat",
+    "KALIMANTAN SELATAN": "Kalimantan Selatan",
+    "KALIMANTAN TENGAH": "Kalimantan Tengah",
+    "KALIMANTAN TIMUR": "Kalimantan Timur",
+    "KALIMANTAN UTARA": "Kalimantan Utara",
+    "BALI": "Bali",
+    "NUSA TENGGARA BARAT": "Nusa Tenggara Barat",
+    "NUSA TENGGARA TIMUR": "Nusa Tenggara Timur",
+    "SULAWESI SELATAN": "Sulawesi Selatan",
+    "SULAWESI BARAT": "Sulawesi Barat",
+    "SULAWESI TENGGARA": "Sulawesi Tenggara",
+    "SULAWESI TENGAH": "Sulawesi Tengah",
+    "GORONTALO": "Gorontalo",
+    "SULAWESI UTARA": "Sulawesi Utara",
+    "MALUKU": "Maluku",
+    "MALUKU UTARA": "Maluku Utara",
+    "PAPUA": "Papua",
+    "PAPUA BARAT": "Papua Barat",
+    "PAPUA BARAT DAYA": "Papua Barat Daya",
+    "PAPUA PEGUNUNGAN": "Papua Pegunungan",
+    "PAPUA SELATAN": "Papua Selatan",
     "PAPUA TENGAH": "Papua Tengah"
 }
 
