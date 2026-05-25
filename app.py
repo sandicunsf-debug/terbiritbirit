@@ -1,3 +1,4 @@
+import numpy as np
 import streamlit as st
 import pandas as pd
 import plotly.graph_objects as go
@@ -180,38 +181,64 @@ kolom_target = 'SIGNIFIKAN_PDRB_ke_PBB' if arah_uji == 'Δ PDRB ➔ Δ PBB (PDRB
 
 # Filter data tabel Granger HANYA berdasarkan Sektor yang dipilih pengguna di sidebar
 # Kita tidak memfilter provinsi, karena peta butuh seluruh 23 provinsi
-df_map_filtered = df_granger_map[df_granger_map['SEKTOR'] == sektor_terpilih]
+df_map_filtered = df_granger_map[df_granger_map['SEKTOR'] == sektor_terpilih].copy()
 
-# Menyiapkan palet warna tegas untuk pengambil keputusan
-color_discrete_map = {'Signifikan': '#2ca02c', 'Tidak Signifikan': '#d62728'} 
+# =======================================================
+# TRIK MATEMATIKA: SKALA DIVERGEN + LOGARITMA
+# =======================================================
+# 1. Lakukan transformasi Logaritma pada Rata-Rata PDRB untuk meredam ketimpangan nilai ekstrem (Outliers)
+df_map_filtered['LOG_PDRB'] = np.log(df_map_filtered['RATA_RATA_PDRB'])
+
+# 2. Manipulasi tanda numerik: (+) untuk Signifikan, (-) untuk Tidak Signifikan
+df_map_filtered['NILAI_WARNA_PETA'] = np.where(
+    df_map_filtered[kolom_target] == 'Signifikan',
+    df_map_filtered['LOG_PDRB'],
+    -1 * df_map_filtered['LOG_PDRB']
+)
+# =======================================================
 
 try:
     fig_map = px.choropleth_mapbox(
         df_map_filtered,
         geojson=geojson_indonesia,
-        locations='PROVINSI', # Nama kolom di dataframe Anda
-        
-        # PERHATIAN KRITIS: 'featureidkey' adalah kunci penghubung GeoJSON dan CSV Anda.
-        # Jika di GeoJSON nama provinsinya ada di dalam "properties" -> "state", maka isikan "properties.state".
-        # Jika di "properties" -> "name", maka isikan "properties.name".
+        locations='PROVINSI',
         featureidkey="properties.PROVINSI", 
         
-        color=kolom_target,
-        color_discrete_map=color_discrete_map,
+        # PERUBAHAN PARAMETER WARNA:
+        color='NILAI_WARNA_PETA',          # Menggunakan hasil perhitungan logaritma divergen
+        color_continuous_scale="RdYlGn",   # Skala Merah (Red) - Kuning (Yellow) - Hijau (Green)
+        color_continuous_midpoint=0,       # Nol mutlak adalah titik tengah antara Merah dan Hijau
+        
         mapbox_style="carto-positron",
         zoom=3.8,
-        center={"lat": -2.5489, "lon": 118.0149}, # Titik tengah kepulauan Indonesia
-        opacity=0.8,
+        center={"lat": -2.5489, "lon": 118.0149},
+        opacity=0.85,
         hover_name='PROVINSI',
-        hover_data={'PROVINSI': False, kolom_target: True},
-        labels={kolom_target: 'Status Kausalitas'}
+        hover_data={
+            'PROVINSI': False,
+            kolom_target: True,
+            'RATA_RATA_PDRB': ':,',
+            'SEKTOR_UNGGULAN': True,
+            'NILAI_WARNA_PETA': False, # Sembunyikan nilai logaritma agar tidak membingungkan pengguna saat hover
+            'LOG_PDRB': False
+        },
+        labels={
+            kolom_target: 'Status Kausalitas',
+            'RATA_RATA_PDRB': 'Rata-Rata PDRB',
+            'SEKTOR_UNGGULAN': 'Sektor Unggulan Wilayah'
+        }
     )
     
-    fig_map.update_layout(margin={"r":0,"t":0,"l":0,"b":0})
+    fig_map.update_layout(
+        margin={"r":0,"t":0,"l":0,"b":0},
+        # Sembunyikan legenda angka logaritma karena tidak intuitif untuk pimpinan
+        coloraxis_showscale=False 
+    )
+    
     st.plotly_chart(fig_map, use_container_width=True)
 
 except Exception as e:
-    st.error(f"Gagal merender peta. Kemungkinan besar karena ketidakcocokan kunci `featureidkey` antara data CSV dengan struktur file GeoJSON Anda. Detail: {e}")
+    st.error(f"Gagal merender peta. Detail: {e}")
 
 # ---------------------------------------------------------
 # 5. MESIN EKONOMETRIKA & NARASI
