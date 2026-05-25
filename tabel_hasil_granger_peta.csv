@@ -1,47 +1,47 @@
-PROVINSI,SEKTOR,P_VAL_PDRB_to_PBB,P_VAL_PBB_to_PDRB,SIGNIFIKAN_PDRB_ke_PBB,SIGNIFIKAN_PBB_ke_PDRB
-ACEH,Tambang dan Gali,0.1794,0.9204,Tidak Signifikan,Tidak Signifikan
-ACEH,"Tani, Hutan, dan Ikan",0.4813,0.3383,Tidak Signifikan,Tidak Signifikan
-BANTEN,Tambang dan Gali,0.9649,0.3541,Tidak Signifikan,Tidak Signifikan
-BANTEN,"Tani, Hutan, dan Ikan",0.876,0.3773,Tidak Signifikan,Tidak Signifikan
-BENGKULU,Tambang dan Gali,0.4598,0.0276,Tidak Signifikan,Signifikan
-BENGKULU,"Tani, Hutan, dan Ikan",0.0127,0.1358,Signifikan,Tidak Signifikan
-DAERAH KHUSUS IBUKOTA JAKARTA,Tambang dan Gali,0.7221,0.6914,Tidak Signifikan,Tidak Signifikan
-DAERAH KHUSUS IBUKOTA JAKARTA,"Tani, Hutan, dan Ikan",0.6428,0.9472,Tidak Signifikan,Tidak Signifikan
-JAMBI,Tambang dan Gali,0.1749,0.1954,Tidak Signifikan,Tidak Signifikan
-JAMBI,"Tani, Hutan, dan Ikan",0.6987,0.1189,Tidak Signifikan,Tidak Signifikan
-JAWA BARAT,Tambang dan Gali,0.7242,0.4383,Tidak Signifikan,Tidak Signifikan
-JAWA BARAT,"Tani, Hutan, dan Ikan",0.0789,0.564,Tidak Signifikan,Tidak Signifikan
-JAWA TENGAH,Tambang dan Gali,0.0278,0.8282,Signifikan,Tidak Signifikan
-JAWA TENGAH,"Tani, Hutan, dan Ikan",0.9623,0.0685,Tidak Signifikan,Tidak Signifikan
-JAWA TIMUR,Tambang dan Gali,0.9568,0.8313,Tidak Signifikan,Tidak Signifikan
-JAWA TIMUR,"Tani, Hutan, dan Ikan",0.4754,0.3164,Tidak Signifikan,Tidak Signifikan
-KALIMANTAN BARAT,Tambang dan Gali,0.2609,0.2015,Tidak Signifikan,Tidak Signifikan
-KALIMANTAN BARAT,"Tani, Hutan, dan Ikan",0.7487,0.396,Tidak Signifikan,Tidak Signifikan
-KALIMANTAN SELATAN,Tambang dan Gali,0.1348,0.031,Tidak Signifikan,Signifikan
-KALIMANTAN SELATAN,"Tani, Hutan, dan Ikan",0.1892,0.062,Tidak Signifikan,Tidak Signifikan
-KALIMANTAN TENGAH,Tambang dan Gali,0.0952,0.6312,Tidak Signifikan,Tidak Signifikan
-KALIMANTAN TENGAH,"Tani, Hutan, dan Ikan",0.4412,0.0306,Tidak Signifikan,Signifikan
-KALIMANTAN TIMUR,Tambang dan Gali,0.3542,0.0452,Tidak Signifikan,Signifikan
-KALIMANTAN TIMUR,"Tani, Hutan, dan Ikan",0.7819,0.3547,Tidak Signifikan,Tidak Signifikan
-KALIMANTAN UTARA,Tambang dan Gali,0.5904,0.3246,Tidak Signifikan,Tidak Signifikan
-KALIMANTAN UTARA,"Tani, Hutan, dan Ikan",0.6865,0.3568,Tidak Signifikan,Tidak Signifikan
-KEPULAUAN BANGKA BELITUNG,Tambang dan Gali,0.0936,0.0592,Tidak Signifikan,Tidak Signifikan
-KEPULAUAN BANGKA BELITUNG,"Tani, Hutan, dan Ikan",0.9518,0.0455,Tidak Signifikan,Signifikan
-LAMPUNG,Tambang dan Gali,0.9463,0.1269,Tidak Signifikan,Tidak Signifikan
-LAMPUNG,"Tani, Hutan, dan Ikan",0.3732,0.477,Tidak Signifikan,Tidak Signifikan
-RIAU,Tambang dan Gali,0.9656,0.9614,Tidak Signifikan,Tidak Signifikan
-RIAU,"Tani, Hutan, dan Ikan",0.109,0.0182,Tidak Signifikan,Signifikan
-SULAWESI SELATAN,Tambang dan Gali,0.7912,0.0758,Tidak Signifikan,Tidak Signifikan
-SULAWESI SELATAN,"Tani, Hutan, dan Ikan",0.7724,0.0292,Tidak Signifikan,Signifikan
-SULAWESI TENGAH,Tambang dan Gali,0.9694,0.8722,Tidak Signifikan,Tidak Signifikan
-SULAWESI TENGAH,"Tani, Hutan, dan Ikan",0.0929,0.0552,Tidak Signifikan,Tidak Signifikan
-SULAWESI TENGGARA,Tambang dan Gali,0.2221,0.6514,Tidak Signifikan,Tidak Signifikan
-SULAWESI TENGGARA,"Tani, Hutan, dan Ikan",0.0456,0.8344,Signifikan,Tidak Signifikan
-SULAWESI UTARA,Tambang dan Gali,0.6623,0.9822,Tidak Signifikan,Tidak Signifikan
-SULAWESI UTARA,"Tani, Hutan, dan Ikan",0.3149,0.5814,Tidak Signifikan,Tidak Signifikan
-SUMATERA BARAT,Tambang dan Gali,0.0067,0.1885,Signifikan,Tidak Signifikan
-SUMATERA BARAT,"Tani, Hutan, dan Ikan",0.3839,0.1557,Tidak Signifikan,Tidak Signifikan
-SUMATERA SELATAN,Tambang dan Gali,0.2846,0.2945,Tidak Signifikan,Tidak Signifikan
-SUMATERA SELATAN,"Tani, Hutan, dan Ikan",0.916,0.0782,Tidak Signifikan,Tidak Signifikan
-SUMATERA UTARA,Tambang dan Gali,0.2136,0.0512,Tidak Signifikan,Tidak Signifikan
-SUMATERA UTARA,"Tani, Hutan, dan Ikan",0.1135,0.2664,Tidak Signifikan,Tidak Signifikan
+PROVINSI,SEKTOR,P_VAL_PDRB_to_PBB,P_VAL_PBB_to_PDRB,SIGNIFIKAN_PDRB_ke_PBB,SIGNIFIKAN_PBB_ke_PDRB,RATA_RATA_PDRB,SEKTOR_UNGGULAN
+Aceh,Tambang dan Gali,0.1794,0.9204,Tidak Signifikan,Tidak Signifikan,4894.3347368421055,"Tani, Hutan, dan Ikan"
+Aceh,"Tani, Hutan, dan Ikan",0.4813,0.3383,Tidak Signifikan,Tidak Signifikan,17943.14789473684,"Tani, Hutan, dan Ikan"
+Banten,Tambang dan Gali,0.9649,0.3541,Tidak Signifikan,Tidak Signifikan,1313.4115789473683,"Tani, Hutan, dan Ikan"
+Banten,"Tani, Hutan, dan Ikan",0.876,0.3773,Tidak Signifikan,Tidak Signifikan,11974.953684210526,"Tani, Hutan, dan Ikan"
+Bengkulu,Tambang dan Gali,0.4598,0.0276,Tidak Signifikan,Signifikan,774.1278947368421,"Tani, Hutan, dan Ikan"
+Bengkulu,"Tani, Hutan, dan Ikan",0.0127,0.1358,Signifikan,Tidak Signifikan,6254.6973684210525,"Tani, Hutan, dan Ikan"
+Daerah Khusus Ibukota Jakarta,Tambang dan Gali,0.7221,0.6914,Tidak Signifikan,Tidak Signifikan,1353.6052631578948,Tambang dan Gali
+Daerah Khusus Ibukota Jakarta,"Tani, Hutan, dan Ikan",0.6428,0.9472,Tidak Signifikan,Tidak Signifikan,707.3047368421052,Tambang dan Gali
+Jambi,Tambang dan Gali,0.1749,0.1954,Tidak Signifikan,Tidak Signifikan,17224.718947368423,"Tani, Hutan, dan Ikan"
+Jambi,"Tani, Hutan, dan Ikan",0.6987,0.1189,Tidak Signifikan,Tidak Signifikan,19328.64,"Tani, Hutan, dan Ikan"
+Jawa Barat,Tambang dan Gali,0.7242,0.4383,Tidak Signifikan,Tidak Signifikan,12651.111578947368,"Tani, Hutan, dan Ikan"
+Jawa Barat,"Tani, Hutan, dan Ikan",0.0789,0.564,Tidak Signifikan,Tidak Signifikan,51756.06526315789,"Tani, Hutan, dan Ikan"
+Jawa Tengah,Tambang dan Gali,0.0278,0.8282,Signifikan,Tidak Signifikan,10120.97105263158,"Tani, Hutan, dan Ikan"
+Jawa Tengah,"Tani, Hutan, dan Ikan",0.9623,0.0685,Tidak Signifikan,Tidak Signifikan,61107.25473684211,"Tani, Hutan, dan Ikan"
+Jawa Timur,Tambang dan Gali,0.9568,0.8313,Tidak Signifikan,Tidak Signifikan,37984.73526315789,"Tani, Hutan, dan Ikan"
+Jawa Timur,"Tani, Hutan, dan Ikan",0.4754,0.3164,Tidak Signifikan,Tidak Signifikan,83567.96157894738,"Tani, Hutan, dan Ikan"
+Kalimantan Barat,Tambang dan Gali,0.2609,0.2015,Tidak Signifikan,Tidak Signifikan,3299.9452631578947,"Tani, Hutan, dan Ikan"
+Kalimantan Barat,"Tani, Hutan, dan Ikan",0.7487,0.396,Tidak Signifikan,Tidak Signifikan,15309.097368421051,"Tani, Hutan, dan Ikan"
+Kalimantan Selatan,Tambang dan Gali,0.1348,0.031,Tidak Signifikan,Signifikan,16329.413684210525,Tambang dan Gali
+Kalimantan Selatan,"Tani, Hutan, dan Ikan",0.1892,0.062,Tidak Signifikan,Tidak Signifikan,8957.854210526317,Tambang dan Gali
+Kalimantan Tengah,Tambang dan Gali,0.0952,0.6312,Tidak Signifikan,Tidak Signifikan,7297.974736842105,"Tani, Hutan, dan Ikan"
+Kalimantan Tengah,"Tani, Hutan, dan Ikan",0.4412,0.0306,Tidak Signifikan,Signifikan,10128.346315789475,"Tani, Hutan, dan Ikan"
+Kalimantan Timur,Tambang dan Gali,0.3542,0.0452,Tidak Signifikan,Signifikan,113392.31842105262,Tambang dan Gali
+Kalimantan Timur,"Tani, Hutan, dan Ikan",0.7819,0.3547,Tidak Signifikan,Tidak Signifikan,15846.256315789473,Tambang dan Gali
+Kalimantan Utara,Tambang dan Gali,0.5904,0.3246,Tidak Signifikan,Tidak Signifikan,8115.093684210527,Tambang dan Gali
+Kalimantan Utara,"Tani, Hutan, dan Ikan",0.6865,0.3568,Tidak Signifikan,Tidak Signifikan,5144.177368421052,Tambang dan Gali
+Kepulauan Bangka Belitung,Tambang dan Gali,0.0936,0.0592,Tidak Signifikan,Tidak Signifikan,3231.447894736842,"Tani, Hutan, dan Ikan"
+Kepulauan Bangka Belitung,"Tani, Hutan, dan Ikan",0.9518,0.0455,Tidak Signifikan,Signifikan,4955.966842105263,"Tani, Hutan, dan Ikan"
+Lampung,Tambang dan Gali,0.9463,0.1269,Tidak Signifikan,Tidak Signifikan,6477.551578947368,"Tani, Hutan, dan Ikan"
+Lampung,"Tani, Hutan, dan Ikan",0.3732,0.477,Tidak Signifikan,Tidak Signifikan,33416.51210526316,"Tani, Hutan, dan Ikan"
+Riau,Tambang dan Gali,0.9656,0.9614,Tidak Signifikan,Tidak Signifikan,45422.24,"Tani, Hutan, dan Ikan"
+Riau,"Tani, Hutan, dan Ikan",0.109,0.0182,Tidak Signifikan,Signifikan,64334.65,"Tani, Hutan, dan Ikan"
+Sulawesi Selatan,Tambang dan Gali,0.7912,0.0758,Tidak Signifikan,Tidak Signifikan,8509.254736842106,"Tani, Hutan, dan Ikan"
+Sulawesi Selatan,"Tani, Hutan, dan Ikan",0.7724,0.0292,Tidak Signifikan,Signifikan,32218.909473684213,"Tani, Hutan, dan Ikan"
+Sulawesi Tengah,Tambang dan Gali,0.9694,0.8722,Tidak Signifikan,Tidak Signifikan,9839.667368421053,"Tani, Hutan, dan Ikan"
+Sulawesi Tengah,"Tani, Hutan, dan Ikan",0.0929,0.0552,Tidak Signifikan,Tidak Signifikan,14612.277368421053,"Tani, Hutan, dan Ikan"
+Sulawesi Tenggara,Tambang dan Gali,0.2221,0.6514,Tidak Signifikan,Tidak Signifikan,8948.810526315789,"Tani, Hutan, dan Ikan"
+Sulawesi Tenggara,"Tani, Hutan, dan Ikan",0.0456,0.8344,Signifikan,Tidak Signifikan,10411.387368421052,"Tani, Hutan, dan Ikan"
+Sulawesi Utara,Tambang dan Gali,0.6623,0.9822,Tidak Signifikan,Tidak Signifikan,2168.9052631578948,"Tani, Hutan, dan Ikan"
+Sulawesi Utara,"Tani, Hutan, dan Ikan",0.3149,0.5814,Tidak Signifikan,Tidak Signifikan,8517.154736842105,"Tani, Hutan, dan Ikan"
+Sumatera Barat,Tambang dan Gali,0.0067,0.1885,Signifikan,Tidak Signifikan,3363.3552631578946,"Tani, Hutan, dan Ikan"
+Sumatera Barat,"Tani, Hutan, dan Ikan",0.3839,0.1557,Tidak Signifikan,Tidak Signifikan,18543.765789473684,"Tani, Hutan, dan Ikan"
+Sumatera Selatan,Tambang dan Gali,0.2846,0.2945,Tidak Signifikan,Tidak Signifikan,33510.74368421052,Tambang dan Gali
+Sumatera Selatan,"Tani, Hutan, dan Ikan",0.916,0.0782,Tidak Signifikan,Tidak Signifikan,26180.396315789476,Tambang dan Gali
+Sumatera Utara,Tambang dan Gali,0.2136,0.0512,Tidak Signifikan,Tidak Signifikan,3361.6973684210525,"Tani, Hutan, dan Ikan"
+Sumatera Utara,"Tani, Hutan, dan Ikan",0.1135,0.2664,Tidak Signifikan,Tidak Signifikan,65266.91631578947,"Tani, Hutan, dan Ikan"
